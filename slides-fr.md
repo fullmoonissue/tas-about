@@ -2,6 +2,12 @@
 class: 'text-center'
 ---
 
+<style>
+.col-left, .col-right {
+    margin-right: 30px;
+}
+</style>
+
 # TAS About
 
 Documentation à propos des Speedruns & Tool-Assisted Speedruns
@@ -46,9 +52,9 @@ layout: two-cols
   - Damage Boost / Take damage to save time
   - Death Warp / Death Abuse
   - Pause Buffering
-  - OOB (Out Of Bounds)
+  - Out of Bounds
   - Manipulation de la chance
-  - ACE / GEG
+  - Arbitrary Code Execution
 
 ---
 layout: cover
@@ -62,13 +68,21 @@ layout: two-cols
 
 # Définition
 
-### Speedrun
+### Speedrun et TAS (Tool-Assisted Speedrun)
 
-Le Speedrunning est la discipline de réaliser le meilleur temps pour finir un jeu.
+Rechercher à réaliser le meilleur temps pour finir un jeu est la discipline du speedrunning.
 
-Une catégorie et un temps doivent toujours être précisés lorsqu'un speedrun d'un jeu est réalisé.
+Un speedrun s'effectue "en live" sur une console ou sur un ordinateur alors qu'un TAS s'effectue sur un ordinateur avec :
+- un émulateur pour les jeux sur console (exemple : <a href="https://github.com/TASVideos/BizHawk" target="_blank">BizHawk</a>)
+- un logiciel pour les jeux sur ordinateur (exemple : <a href="https://github.com/clementgallet/libTAS" target="_blank">LibTAS</a>)
 
-### En complément
+Un TAS est représenté par <a href="http://tasvideos.org/Bizhawk/BK2Format.html#InputLog" target="_blank">un fichier</a> qui liste les inputs (touches) appuyés à une frame (image) particulière.
+
+::right::
+
+# &nbsp;
+
+### En complément (Speedrun)
 
 - 🇫🇷 <a href="https://www.youtube.com/watch?v=akQuKUa-Iho" target="_blank">Introduction au Speedrun</a>
 
@@ -78,21 +92,11 @@ Une catégorie et un temps doivent toujours être précisés lorsqu'un speedrun 
 
 - 🇺🇸 <a href="https://www.youtube.com/watch?v=Zxhd4tGuhf4" target="_blank">How To Start Speedrunning</a>
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=I5auJOBC828" target="_blank">Speedrunning is awesome and here's why</a>
-
-::right::
-
-# &nbsp;
-
-### TAS (Tool-Assisted Speedrun)
-
-La définition d'un TAS sera la même que celle d'un speedrun à la différence près que c'est une version très optimisée et réalisée avec un émulateur (ou d'autres outils pour les jeux tournant sur ordinateur).
-
-Un TAS est le replay d'une somme d'inputs programmés pour être appuyés à un certain moment (alors qu'un speedrun se joue en live).
-
-### En complément
+### En complément (TAS)
 
 - 🇫🇷 <a href="https://www.youtube.com/watch?v=XrNrJ9G8-Do" target="_blank">Conférence sur le Tool-Assisted Speedrun</a>
+
+- 🇫🇷 <a href="https://www.youtube.com/embed/dcbdhDqBx_g?start=225&end=1252" target="_blank">Comment réaliser un TAS</a>
 
 - 🇺🇸 <a href="https://www.youtube.com/watch?v=Ietk1-Wb7oY" target="_blank">Tool-assisted speedrunning explained</a>
 
@@ -108,17 +112,17 @@ layout: two-cols
 
 Pourcentage de jeu réalisé
 
-- <a href="https://www.youtube.com/watch?v=nDnJw6MyVF8" target="_blank">Any%</a> (le plus rapidement à la fin du jeu)
-- <a href="https://www.youtube.com/watch?v=qYus40vi-Tw" target="_blank">Low%</a> (voire <a href="https://www.youtube.com/watch?v=NxpPUtTWg3w" target="_blank">0%</a>), <a href="https://www.youtube.com/watch?v=kFT5zbKo23s" target="_blank">100%</a> (voire <a href="https://www.youtube.com/watch?v=u_6JHT0_0C4" target="_blank">Max%</a>)
+- <a href="https://www.youtube.com/watch?v=qYus40vi-Tw" target="_blank">Low%</a> (prendre le moins d'items possible)
+- <a href="https://www.youtube.com/watch?v=nDnJw6MyVF8" target="_blank">Any%</a> (catégorie par défaut, se rendre à la fin)
+- <a href="https://www.youtube.com/watch?v=kFT5zbKo23s" target="_blank">100%</a> (réaliser tous les objectifs d'un jeu)
 
 Utilisation de glitchs / bugs
 
-- <a href="https://www.youtube.com/watch?v=vjMAH3I55bk" target="_blank">Glitchless</a> (aucun ou certains glitch(s) permis)
+- <a href="https://www.youtube.com/watch?v=vjMAH3I55bk" target="_blank">Glitchless</a> (liste réduite de glitchs autorisés)
 - <a href="https://www.youtube.com/watch?v=ZEWnHPXEOYQ" target="_blank">NMG</a> (No Major Glitch)
 
 Autres
 
-- <a href="https://www.youtube.com/watch?v=Mib8gS1o6OE" target="_blank">Segmenté</a>
 - <a href="https://www.youtube.com/watch?v=1xJIJ7bjSdU" target="_blank">DLC</a> / <a href="https://www.youtube.com/watch?v=rg0n2Ctbuug" target="_blank">Rom Hack</a>
 - <a href="https://www.youtube.com/watch?v=3VHBGoWDFR0" target="_blank">Version du jeu</a> / <a href="https://www.youtube.com/watch?v=LoTorn8_3C8" target="_blank">Patch (Correctif) appliqué</a>
 
@@ -131,12 +135,12 @@ Autres
 La communauté autour d'un jeu peut proposer des catégories supplémentaires.
 
 - <a href="https://www.youtube.com/watch?v=E0jcnyb2eec" target="_blank">RBO</a> (Reverse Boss Order, battre les boss dans l'ordre inverse du jeu)
-- <a href="https://www.youtube.com/watch?v=i5jV-ObkZ2k" target="_blank">Damageless</a> (ne prendre aucun coup)
-- <a href="https://www.speedrun.com/celeste_category_extensions" target="_blank">Et</a> <a href="https://www.speedrun.com/smoce" target="_blank">bien</a> <a href="https://www.speedrun.com/ootextras" target="_blank">d'autres</a>...
+- <a href="https://www.youtube.com/watch?v=UESSGDT-Oww" target="_blank">Damageless</a> (ne prendre aucun coup)
+- Et bien d'autres (exemples : <a href="https://www.speedrun.com/celeste_category_extensions" target="_blank">Celeste</a>, <a href="https://www.speedrun.com/outlastmemes" target="_blank">Outlast</a>)
 
 ### &nbsp;
 
-### Catégories majoritairement TASées
+### Encore d'autres catégories
 
 Avec <a href="https://www.youtube.com/watch?v=1EOzbAHPmvM" target="_blank">contraintes multiples</a> ou encore :
 
@@ -152,13 +156,14 @@ layout: two-cols
 ### En Speedrun
 
 RTA (Real Time Attack) est le temps écoulé dans la vie réelle.
-Une fois l'accord trouvé par la communauté pour savoir quand démarrer et arrêter le chronomètre, le temps écoulé entre ses deux actions sera le temps du speedrun.
+Une fois l'accord trouvé par la communauté pour savoir quand démarrer et arrêter le chronomètre, le temps écoulé entre ces deux actions sera le temps du speedrun.
 
 IGT (In-Game Time) est le temps écoulé mais calculé par le jeu.
-Il peut comprendre (ou pas) les temps de chargements, le temps passé dans les cinématiques et d'autres gestions internes.
+Il peut comprendre notamment les temps de chargements et le temps passé dans les cinématiques.
 
-Il n'existe pas de réponse toute faite quant à savoir quelle méthode utiliser pour le classement.
-Soit certains points élimineront une solution (<a href="https://www.reddit.com/r/speedrun/comments/7a8223/igt_vs_rta_when_should_a_leaderboard_use_which/dp88pli/">exemple</a>), soit un débat tranchera la décision (<a href="https://www.speedrun.com/Speedrunning/thread/b5rk1" target="_blank">exemple</a>).
+Le choix entre RTA et IGT peut se faire :
+- Suivant <a href="https://www.reddit.com/r/speedrun/comments/7a8223/igt_vs_rta_when_should_a_leaderboard_use_which/dp88pli/" target="_blank">certains éléments de jeu</a>
+- Par le biais d'un <a href="https://www.speedrun.com/Speedrunning/thread/b5rk1" target="_blank">débat</a>
 
 ::right::
 
@@ -166,15 +171,9 @@ Soit certains points élimineront une solution (<a href="https://www.reddit.com/
 
 ### En TAS
 
-Le calcul du temps pour un TAS est plus simple que celle d'un speedrun car elle est la même peu importe le jeu et la catégorie du speedrun.
+Le calcul du temps pour un TAS est plus simple que pour un speedrun car la méthode est toujours la même.
 
-Le chronomètre démarre en même temps que le jeu est lancé et le temps est arrêté lorsque le dernier input est appuyé.
-
-Cela peut amener au fait que le dernier input appuyé soit assez éloigné de la fin du jeu (souvent représenté comme le lancement des crédits de fin de jeu).
-
-Exemple avec <a href="https://www.youtube.com/watch?v=2g6uPk-A1HY" target="_blank">Sim City</a> :
-- Temps du TAS : 6:52
-- Temps RTA : 47:00
+Le chronomètre démarre au moment où le jeu est lancé et s'arrête lorsque le dernier input est appuyé.
 
 ---
 layout: cover
@@ -191,8 +190,8 @@ layout: two-cols
 ### Présentation
 
 - Gère plusieurs consoles (PS1, Saturn, GB, ...)
-- Permet de TASer des jeux grâce à beaucoup d'outils
-- Est "Console Vérifiée" (<a href="https://www.youtube.com/playlist?list=PLH-rsHQS9LqgSYzSePo9aWUX8xRjXSqK9" target="_blank">exemples</a>)
+- Possède beaucoup d'outils permettant de TASer les jeux sur console
+- Est Console Vérifiée (<a href="https://www.youtube.com/playlist?list=PLH-rsHQS9LqgSYzSePo9aWUX8xRjXSqK9" target="_blank">exemples</a>)
 
 ### &nbsp;
 
@@ -201,17 +200,17 @@ layout: two-cols
 - Frame Advanced (jouer image par image)
 - Save State (sauvegarder où l'on veut)
 - RAM Search et RAM Watch (rechercher et observer des valeurs dans la mémoire)
-- Lua Scripting (lancer un script Lua pour, par exemple, afficher des informations à l'écran)
+- Lua Scripting (lancer un script Lua pour, par exemple, <a href="https://www.youtube.com/watch?v=reDowrCmnwY" target="_blank">afficher des informations à l'écran</a>)
 
 ::right::
 
 ### Console Vérifiée
 
-Un moyen de mesurer la précision d'un émulateur est de rejouer les inputs d'un TAS sur une vraie console.
+Un moyen de mesurer la précision d'un émulateur est de rejouer les inputs d'un TAS sur une console.
 
 Pour certaines consoles (comme la GBA), un TAS réalisé sous BizHawk peut être rejoué sur une vraie GBA ce qui appose un haut degré de précision d'émulation (<a href="https://www.youtube.com/watch?v=060Nb7ppa-s" target="_blank">complément</a>).
 
-<a href="http://tasvideos.org/TASBot.html" target="_blank">TASBot</a> est un robot créé pour justement effectuer cette vérification (son histoire, 🇺🇸 partie <a href="https://www.youtube.com/watch?v=-Jo6tDW7k3Q" target="_blank">1</a> et <a href="https://www.youtube.com/watch?v=gTF2Pih8BX8" target="_blank">2</a>).
+<a href="http://tasvideos.org/TASBot.html" target="_blank">TASBot</a> est un robot créé pour justement effectuer cette vérification (son histoire : 🇺🇸 partie <a href="https://www.youtube.com/watch?v=-Jo6tDW7k3Q" target="_blank">1</a>, <a href="https://www.youtube.com/watch?v=gTF2Pih8BX8" target="_blank">2</a> et <a href="https://www.youtube.com/watch?v=BDQXzrYUuvA" target="_blank">3</a>).
 
 ### En complément (BizHawk et autres outils)
 
@@ -251,7 +250,7 @@ layout: two-cols
 
 ### Présentation
 
-L'outil majoritairement utilisé par les speedrunners pour chronométrer le temps de leurs runs est <a href="https://github.com/LiveSplit" target="_blank">LiveSplit</a>.
+L'outil majoritairement utilisé par les speedrunners pour chronométrer leurs runs est <a href="https://github.com/LiveSplit" target="_blank">LiveSplit</a>.
 
 - 🇫🇷 <a href="https://www.youtube.com/watch?v=QWuBijoRn9U" target="_blank">Configurer un Timer de Speedrun</a>
 
@@ -259,7 +258,7 @@ L'outil majoritairement utilisé par les speedrunners pour chronométrer le temp
 
 ### Load Remover
 
-Pour ne pas désavantager les ordinateurs moins puissants lors des runs sur PC, des Load Remover peuvent être programmés afin que les temps de chargements ne soient pas pris en compte dans le temps de la run.
+Pour ne pas désavantager les ordinateurs moins puissants lors des runs sur ordinateur, des Load Remover peuvent être programmés afin que les temps de chargements ne soient pas pris en compte dans le temps de la run.
 
 - 🇺🇸 <a href="https://www.youtube.com/watch?v=mJYc_5dt8Dw" target="_blank">Making load removers for speedruns</a>
 
@@ -269,11 +268,11 @@ Pour ne pas désavantager les ordinateurs moins puissants lors des runs sur PC, 
 
 ### AutoSplit
 
-Chaque splits configurés sur LiveSplit sont lancés à la main durant une run. Il est néanmoins possible de les lancer de manière programmée.
+Chaque splits configurés sur LiveSplit sont lancés manuellement durant une run. Il est néanmoins possible de les lancer de manière programmée.
 
 - depuis un jeu sur ordinateur en "écoutant" des adresses mémoire grâce à un <a href="https://github.com/LiveSplit/LiveSplit.AutoSplitters/blob/master/README.md" target="_blank">fichier ASL</a>
-  - création : 🇺🇸 <a href="https://www.youtube.com/watch?v=VS5-ZSjcBXQ" target="_blank">Rich Diamond</a>, 🇺🇸 <a href="https://www.youtube.com/watch?v=KcBZLtjazHQ" target="_blank">Devil May Cry 4</a>
-  - utilisation : <a href="https://github.com/cursedtoast/re3-remake-autosplitter/blob/master/re3.asl" target="_blank">Resident Evil 3</a> (🇺🇸 <a href="https://www.youtube.com/watch?v=JtxZN4YDiq0" target="_blank">en pratique</a>)
+  - 🇺🇸 <a href="https://www.youtube.com/watch?v=VS5-ZSjcBXQ" target="_blank">Rich Diamond</a>
+  - 🇺🇸 <a href="https://www.youtube.com/watch?v=KcBZLtjazHQ" target="_blank">Devil May Cry 4 Special Edition</a>
 - depuis un jeu console en comparant des images
   - <a href="https://github.com/Toufool/Auto-Split" target="_blank">Auto-Split</a> (🇫🇷 <a href="https://www.youtube.com/watch?v=uGZphPkrGRw&t=848s" target="_blank">Démonstration</a>)
   - <a href="https://github.com/RaiMan/SikuliX1" target="_blank">Sikuli</a> (<a href="https://www.youtube.com/watch?v=W4sn4yjSosA" target="_blank">Démonstration</a>)
@@ -323,7 +322,7 @@ layout: two-cols
 - 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLraFbwCoisJA6eO7VSWtUqLaIFBQq4PCv" target="_blank">Devs React to Speedruns</a>
 - 🇺🇸 <a href="https://www.reddit.com/r/TAS/" target="_blank">SubReddit (TAS)</a>
 - 🇺🇸 <a href="https://www.twitch.tv/directory/all/tags/0b83a789-5f6a-45f0-b6a3-a56926b6f8b5" target="_blank">Twitch "TAS" tag</a>
-- 🇺🇸 Développeurs qui speedrunnent leur propre jeu (<a href="https://www.twitch.tv/videos/1110820951" target="_blank">Polyphony Lunar Run</a> - <a href="https://www.youtube.com/watch?v=LLNx5_8FK4I" target="_blank">Pro Gymnast</a>)
+- 🇺🇸 Développeurs speedrunnant leur propre jeu (<a href="https://www.twitch.tv/videos/1110820951" target="_blank">Polyphony Lunar Run</a> - <a href="https://www.youtube.com/watch?v=LLNx5_8FK4I" target="_blank">Pro Gymnast</a>)
 
 ---
 layout: two-cols
@@ -360,10 +359,10 @@ layout: two-cols
 
 ### Tool-Assisted Superplay
 
-Quand le divertissement prend le pas sur la rapidité.
+Le divertissement d'abord, la rapidité ensuite.
 
 - TAS vs TAS (<a href="https://www.youtube.com/watch?v=0CsOeksvJ44" target="_blank">Ryu vs Cloud</a>, <a href="https://www.youtube.com/watch?v=lhE8g3fscYM" target="_blank">Ness vs Young Link</a>)
-- Glitchfest (<a href="https://www.youtube.com/watch?v=Yxb0t34mW-U" target="_blank">Mortal Kombat 3</a>, <a href="https://www.youtube.com/watch?v=-MiGSbWj49I" target="_blank">Super Mario World</a>)
+- Glitchfest (<a href="https://www.youtube.com/watch?v=Yxb0t34mW-U" target="_blank">Mortal Kombat 3</a>)
 - <a href="https://www.youtube.com/watch?v=A06DjnoHRIk" target="_blank">TAP</a> (Tool-Assisted Playaround)
 
 ### &nbsp;
@@ -387,7 +386,7 @@ Gameplay, dialogues et cinématiques d'un jeu.
 
 - ... jeux (🇺🇸 <a href="https://www.youtube.com/watch?v=-ivGNZs_Mvw" target="_blank">Pokémon B&R : Coop Diploma</a>)
 
-- ... jeux, même inputs appuyés (<a href="https://www.youtube.com/watch?v=To3d6XKsMcQ" target="_blank">3</a>, <a href="https://www.youtube.com/watch?v=SiHdBS7HPg0" target="_blank">4</a>, <a href="https://www.youtube.com/watch?v=CL9yGz7VVrM" target="_blank">11</a>)
+- ... jeux, même inputs appuyés (<a href="https://www.youtube.com/watch?v=pPJKMm5VrhE" target="_blank">2</a>, <a href="https://www.youtube.com/watch?v=To3d6XKsMcQ" target="_blank">3</a>, <a href="https://www.youtube.com/watch?v=SiHdBS7HPg0" target="_blank">4</a>, <a href="https://www.youtube.com/watch?v=CL9yGz7VVrM" target="_blank">11</a>)
 
 ### &nbsp;
 
@@ -432,7 +431,7 @@ layout: cover
 
 Voici une liste non exhaustive de techniques utilisées lors des speedruns / TAS qui réduisent plus ou moins considérablement le temps pour finir un jeu.
 
-À savoir, certaines techniques peuvent être amenées à créer une nouvelle catégorie de speedrun si, par exemple, elle "casse" trop le jeu (comme le <a href="https://www.youtube.com/watch?v=ney75kvlEYk" target="_blank">SRM</a> d'Ocarina of Time).
+À savoir, certaines techniques peuvent être amenées à créer une nouvelle catégorie de speedrun si, par exemple, elle "casse" trop le jeu (comme le <a href="https://www.youtube.com/watch?v=Al_JJ6QC3wE&t=818s" target="_blank">SRM</a> d'Ocarina of Time).
 
 ---
 layout: two-cols
@@ -482,9 +481,9 @@ Afin d'être sûr de pouvoir effectuer le meilleur temps sur un jeu, il faut s'a
 
 Quelques exemples de langue utilisée suivant le jeu speedrunné :
 
-- <a href="https://www.youtube.com/watch?v=XM1UwcX1AlM" target="_blank">Twilight Princess</a>, en Allemand
-- <a href="https://www.youtube.com/watch?v=DkQiUfz2exc" target="_blank">Breath of the Wild</a>, en Français (au moins en Any%)
-- <a href="https://www.youtube.com/watch?v=TL5UhcpQthQ" target="_blank">Super Mario 64</a>, en Japonais
+- <a href="https://www.youtube.com/watch?v=XM1UwcX1AlM" target="_blank">Twilight Princess Any%</a>, en Allemand
+- <a href="https://www.youtube.com/watch?v=DkQiUfz2exc" target="_blank">Breath of the Wild Any%</a>, en Français
+- <a href="https://www.youtube.com/watch?v=TL5UhcpQthQ" target="_blank">Super Mario 64, 16 Stars</a>, en Japonais
 
 ---
 
@@ -500,7 +499,7 @@ L'objectif est de réaliser le moins d'allers-retours dans le menu en effectuant
 
 - 🇺🇸 <a href="https://www.youtube.com/watch?v=jdZg4a4NU5k" target="_blank">Resident Evil 1 : Jill Any% Glitchless Inventory Management</a>
 
-- <a href="https://www.youtube.com/watch?v=46YM-7g2800" target="_blank">AGDQ 2019: Final Fantasy XI - Blindfolded Menuing</a>
+- 🇺🇸 <a href="https://www.youtube.com/watch?v=46YM-7g2800" target="_blank">AGDQ 2019: Final Fantasy XI - Blindfolded Menuing</a>
 
 ---
 
@@ -508,7 +507,7 @@ L'objectif est de réaliser le moins d'allers-retours dans le menu en effectuant
 
 ### Description
 
-L'écriture du parcours à suivre pour la réalisation du meilleur temps est le Routing (ou Route Planning).
+Le chemin à suivre pour réaliser le meilleur temps pour finir un jeu est le Routing (ou Route Planning).
 
 Celui-ci peut évoluer lorsque, par exemple, des nouveaux glitchs ont été trouvés.
 
@@ -516,8 +515,8 @@ Les vidéos "World Record Progression" sont un bon exemple pour visualiser les c
 
 🎥 Mentions :
 
-- <a href="https://www.youtube.com/playlist?list=PLuwYJaJDViFlt1hRETxEP3dexwJG1ENNe" target="_blank">Speed Docs</a>
-- <a href="https://www.youtube.com/playlist?list=PLMxPYcr2zEkWInMyvvxmN22gjrRR0x__u" target="_blank">Summoning Salt</a>
+- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLuwYJaJDViFlt1hRETxEP3dexwJG1ENNe" target="_blank">Speed Docs</a>
+- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLMxPYcr2zEkWInMyvvxmN22gjrRR0x__u" target="_blank">Summoning Salt</a>
 
 ---
 
@@ -527,7 +526,7 @@ Les vidéos "World Record Progression" sont un bon exemple pour visualiser les c
 
 Lorsque beaucoup d'éléments sont affichés à l'écran, cela peut provoquer un ralentissement du jeu.
 
-Pour éviter ce ralentissement, quelques moyens peuvent être mis à l'essai.
+Pour éviter ce ralentissement, quelques moyens peuvent être mis à l'essai comme tuer plus tôt les ennemis à l'écran ou bien déplacer la caméra pour ne pas afficher certains éléments du jeu.
 
 🎥 Mentions :
 
@@ -563,7 +562,7 @@ Ainsi, un équilibre sera recherché entre une somme de dégâts pris permettant
 
 "Take damage to save time" est une famille de techniques où l'idée est de troquer des points de vie contre du temps gagné dont les Damage Boost en font parti.
 
-🎥 Exemples de Speedrun comportant des D-Boost :
+🎥 Exemples de TAS comportant des D-Boost :
 
 - <a href="https://www.youtube.com/watch?v=7-Kak8JeF1g" target="_blank">The Goonies II, Any%</a>
 
@@ -577,7 +576,7 @@ Ainsi, un équilibre sera recherché entre une somme de dégâts pris permettant
 
 Dans certains jeux, mourir devient un raccourci.
 
-En effet, la mort peut ramener à un checkpoint antérieur permettant de ne pas réaliser un chemin retour coûtant du temps.
+En effet, la mort peut ramener à un checkpoint antérieur permettant de gagner du temps en n'effectuant pas un chemin retour vers celui-ci.
 
 🎥 Mentions :
 
@@ -591,7 +590,7 @@ En effet, la mort peut ramener à un checkpoint antérieur permettant de ne pas 
 
 ### Description
 
-Dans certains jeux, la mise en pause répétée fait apparaître des situations qui ne pourrait l'être autrement.
+Dans certains jeux, la mise en pause répétée fait apparaître des situations qui ne pourraient apparaître autrement.
 
 🎥 Mentions :
 
@@ -601,11 +600,11 @@ Dans certains jeux, la mise en pause répétée fait apparaître des situations 
 
 ---
 
-# OOB (Out Of Bounds)
+# Out of Bounds
 
 ### Description
 
-Certains glitchs permettent de sortir des limites du jeu, c'est un OOB.
+Certains glitchs permettent de sortir des limites du jeu, c'est un OOB (Out of Bounds).
 
 🎥 Mentions :
 
@@ -629,12 +628,11 @@ OOB va souvent devenir une catégorie à part entière lorsqu'une partie du jeu 
 
 ### Description
 
-Certains évènements dans un jeu peuvent être assujettis à la chance (comme effectuer un coup critique lors d'un combat dans Pokémon).
+Certains évènements dans un jeu peuvent être assujettis à la chance (comme effectuer un coup critique lors d'un combat).
 
-Le nom donné à la chance dans un jeu est la RNG (Random Number Generator).
-Elle peut être représentée sous forme d'une probabilité qu'un évènement se passe dont le calcul peut avoir plusieurs paramètres différents (numéro de la frame, dernier(s) input(s) appuyé(s), ...).
+Le nom donné à la chance dans un jeu est la RNG (Random Number Generator) et elle peut être représentée sous forme d'une probabilité qu'un évènement se passe.
 
-Lors des TAS, cette RNG va être <a href="http://tasvideos.org/LuckManipulation.html" target="_blank">manipulée</a> afin que (si possible) les évènements désirés soient réalisés.
+Lors des TAS, cette RNG va être <a href="http://tasvideos.org/LuckManipulation.html" target="_blank">manipulée</a> afin que (si possible) des évènements désirés soient réalisés.
 
 🎥 Mentions :
 
@@ -644,20 +642,21 @@ Lors des TAS, cette RNG va être <a href="http://tasvideos.org/LuckManipulation.
 
 ---
 
-# ACE / GEG
+# Arbitrary Code Execution
 
 ### Description
 
 Un ACE (Arbitrary Code Execution) est un glitch qui permet d'exécuter du code non prévu dans un jeu.
 
-Cela peut permettre d'aller <a href="https://www.youtube.com/watch?v=StuzA-IRN_Y" target="_blank">rapidement à la fin d'un jeu</a> (nommé GEG (Game End Glitch)) ou bien de coder un jeu dans un jeu (<a href="https://www.youtube.com/watch?v=v_KsonqcMv0" target="_blank">exemple</a>, 🇺🇸 <a href="https://arstechnica.com/gaming/2014/01/how-an-emulator-fueled-robot-reprogrammed-super-mario-world-on-the-fly/" target="_blank">article en relation</a>, 🇫🇷 <a href="https://www.youtube.com/watch?v=dcbdhDqBx_g&t=1252s" target="_blank">vidéo en relation</a>).
+Cela peut permettre d'aller <a href="https://www.youtube.com/watch?v=StuzA-IRN_Y" target="_blank">rapidement à la fin d'un jeu</a> (nommé "Game End Glitch") ou bien de coder un jeu dans un jeu.
 
-L'idée est d'arranger l'ordre des octets / bits dans le jeu afin qu'ils deviennent du nouveau code à exécuter lorsqu'ils seront lus.
-
-Les ACE sont très puissants car ils peuvent donner un contrôle total sur un jeu.
+Exemple (Pong et Snake codés dans Super Mario World) :
+- <a href="https://www.youtube.com/watch?v=v_KsonqcMv0" target="_blank">Démonstration</a>
+- 🇺🇸 <a href="https://arstechnica.com/gaming/2014/01/how-an-emulator-fueled-robot-reprogrammed-super-mario-world-on-the-fly/" target="_blank">Article en relation</a>
+- 🇫🇷 <a href="https://www.youtube.com/watch?v=dcbdhDqBx_g&t=1252s" target="_blank">Vidéo en relation</a>
 
 🎥 Mentions :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=o7wGpmP6YH8" target="_blank">TAS 100% Source Requirement, Zelda Majora's Mask, en moins de 37 minutes</a>
+- 🇺🇸 <a href="https://www.youtube.com/watch?v=o7wGpmP6YH8" target="_blank">TAS Zelda Majora's Mask 100% avec ACE</a>
 
 - 🇺🇸 <a href="https://www.youtube.com/watch?v=FmTtRZcfH08" target="_blank">TAS Castlevania: Symphony of the Night "Game End Glitch" </a>
