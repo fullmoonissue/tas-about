@@ -431,7 +431,7 @@ layout: cover
 
 Voici une liste non exhaustive de techniques utilisées lors des speedruns / TAS qui réduisent plus ou moins considérablement le temps pour finir un jeu.
 
-À savoir, certaines techniques peuvent être amenées à créer une nouvelle catégorie de speedrun si, par exemple, elle "casse" trop le jeu (comme le <a href="https://www.youtube.com/watch?v=Al_JJ6QC3wE&t=818s" target="_blank">SRM</a> d'Ocarina of Time).
+À savoir, certaines techniques peuvent être amenées à créer une nouvelle catégorie de speedrun si, par exemple, elle "casse" trop le jeu (comme le <a href="https://www.youtube.com/watch?v=a_R2H2dRWqU" target="_blank">SRM</a> d'Ocarina of Time).
 
 ---
 layout: two-cols

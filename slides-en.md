@@ -429,7 +429,7 @@ layout: cover
 
 Here is a non-exhaustive list of skills used during speedruns / TAS which reduce more or less the time to end a game.
 
-Some of these skills can lead to the creation of a new speedrun category if, for example, it "brakes" too much a game (like the <a href="https://www.youtube.com/watch?v=Al_JJ6QC3wE&t=818s" target="_blank">SRM</a> in Ocarina of Time).
+Some of these skills can lead to the creation of a new speedrun category if, for example, it "brakes" too much a game (like the <a href="https://www.youtube.com/watch?v=a_R2H2dRWqU" target="_blank">SRM</a> in Ocarina of Time).
 
 ---
 layout: two-cols
