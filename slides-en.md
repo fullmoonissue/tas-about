@@ -14,9 +14,9 @@ Documentation about Speedruns & Tool-Assisted Speedruns
 
 By Full Moon Issue
 
-<a href="https://github.com/FullMoonIssue" target="_blank">Github</a> - <a href="https://www.youtube.com/channel/UCyIgZhTFSpPe_E7WRFzRBCQ" target="_blank">Youtube</a>
+<Link hrefId="cover_fmiGithub" content="Github" /> - <Link hrefId="cover_fmiYoutube" content="Youtube" />
 
-Made with <a href="https://github.com/slidevjs/slidev" target="_blank">Slidev</a>
+Made with <Link hrefId="cover_slidevGithub" content="Slidev" />
 
 ---
 layout: two-cols
@@ -73,10 +73,10 @@ layout: two-cols
 The aim of speedrunning is to get the best time to end a game.
 
 A speedrun is played "live" on a console or a computer when a TAS is made on a computer with
-- an emulator for console games (example : <a href="https://github.com/TASVideos/BizHawk" target="_blank">BizHawk</a>)
-- a software for computer games (example : <a href="https://github.com/clementgallet/libTAS" target="_blank">LibTAS</a>)
+- an emulator for console games (example : <Link hrefId="definition_bizhawkGithub" content="BizHawk" />)
+- a software for computer games (example : <Link hrefId="definition_libtasGithub" content="LibTAS" />)
 
-A TAS is represented by <a href="http://tasvideos.org/Bizhawk/BK2Format.html#InputLog" target="_blank">a file</a> which list inputs (buttons) pushed on a particular frame (picture).
+A TAS is represented by <Link hrefId="definition_bizhawkInputLog" content="a file" /> which list inputs (buttons) pushed on a particular frame (picture).
 
 ::right::
 
@@ -84,23 +84,21 @@ A TAS is represented by <a href="http://tasvideos.org/Bizhawk/BK2Format.html#Inp
 
 ### Additionally (Speedrun)
 
-- 🇫🇷 <a href="https://www.youtube.com/watch?v=akQuKUa-Iho" target="_blank">Introduction au Speedrun</a>
+- 🇫🇷 <Link hrefId="definition_introductionSpeedrun" content="Introduction au Speedrun" />
 
-- 🇫🇷 <a href="https://www.youtube.com/watch?v=7HhXrAeEd2M" target="_blank">Comment commencer le speedrun</a>
+- 🇺🇸 <Link hrefId="definition_whatIsSpeedrunning" content="What is Speedrunning?" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=fTElGPOsdd8" target="_blank">What is Speedrunning?</a>
-
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=Zxhd4tGuhf4" target="_blank">How To Start Speedrunning</a>
+- 🇺🇸 <Link hrefId="definition_howToStartSpeedrunning" content="How To Start Speedrunning" />
 
 ### Additionally (TAS)
 
-- 🇫🇷 <a href="https://www.youtube.com/watch?v=XrNrJ9G8-Do" target="_blank">Conférence sur le Tool-Assisted Speedrun</a>
+- 🇫🇷 <Link hrefId="definition_conferenceTas" content="Conférence sur le Tool-Assisted Speedrun" />
 
-- 🇫🇷 <a href="https://www.youtube.com/embed/dcbdhDqBx_g?start=225&end=1252" target="_blank">Comment réaliser un TAS</a>
+- 🇫🇷 <Link hrefId="definition_howToTAS" content="Comment réaliser un TAS" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=Ietk1-Wb7oY" target="_blank">Tool-assisted speedrunning explained</a>
+- 🇺🇸 <Link hrefId="definition_tasExplained" content="Introduction to TAS" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=R3-ohYvi_fc" target="_blank">Introduction to TAS</a>
+- 🇺🇸 <Link hrefId="definition_introductionTas" content="Tool-assisted speedrunning explained" />
 
 ---
 layout: two-cols
@@ -112,19 +110,19 @@ layout: two-cols
 
 Percentage finished of a game
 
-- <a href="https://www.youtube.com/watch?v=qYus40vi-Tw" target="_blank">Low%</a> (less items possible)
-- <a href="https://www.youtube.com/watch?v=nDnJw6MyVF8" target="_blank">Any%</a> (default category, go to the end)
-- <a href="https://www.youtube.com/watch?v=kFT5zbKo23s" target="_blank">100%</a> (all game's objectives made)
+- <Link hrefId="category_low" content="Low%" /> (less items possible)
+- <Link hrefId="category_any" content="Any%" /> (default category, go to the end)
+- <Link hrefId="category_100" content="100%" /> (all game's objectives made)
 
 Use of glitches / bugs
 
-- <a href="https://www.youtube.com/watch?v=vjMAH3I55bk" target="_blank">Glitchless</a> (none or some glitches allowed)
-- <a href="https://www.youtube.com/watch?v=ZEWnHPXEOYQ" target="_blank">NMG</a> (No Major Glitch)
+- <Link hrefId="category_glitchless" content="Glitchless" /> (none or some glitches allowed)
+- <Link hrefId="category_nmg" content="NMG" /> (No Major Glitch)
 
 Others
 
-- <a href="https://www.youtube.com/watch?v=1xJIJ7bjSdU" target="_blank">DLC</a> / <a href="https://www.youtube.com/watch?v=rg0n2Ctbuug" target="_blank">Rom Hack</a>
-- <a href="https://www.youtube.com/watch?v=3VHBGoWDFR0" target="_blank">Version of the game</a> / <a href="https://www.youtube.com/watch?v=LoTorn8_3C8" target="_blank">Patch applied</a>
+- <Link hrefId="category_dlc" content="DLC" /> / <Link hrefId="category_romHack" content="Rom Hack" />
+- <Link hrefId="category_gameVersion" content="Version of the game" /> / <Link hrefId="category_patch" content="Patch applied" />
 
 ::right::
 
@@ -134,18 +132,18 @@ Others
 
 The community of a game may suggest some extra categories.
 
-- <a href="https://www.youtube.com/watch?v=E0jcnyb2eec" target="_blank">RBO</a> (Reverse Boss Order, defeat bosses in the inverted order)
-- <a href="https://www.youtube.com/watch?v=UESSGDT-Oww" target="_blank">Damageless</a> (take no damage)
-- And many others (examples : <a href="https://www.speedrun.com/celeste_category_extensions" target="_blank">Celeste</a>, <a href="https://www.speedrun.com/outlastmemes" target="_blank">Outlast</a>)
+- <Link hrefId="category_rbo" content="RBO" /> (Reverse Boss Order, defeat bosses in the inverted order)
+- <Link hrefId="category_damageless" content="Damageless" /> (take no damage)
+- And many others (examples : <Link hrefId="category_ceCeleste" content="Celeste" />, <Link hrefId="category_ceOutlast" content="Outlast" />)
 
 ### &nbsp;
 
 ### More categories
 
-With <a href="https://www.youtube.com/watch?v=1EOzbAHPmvM" target="_blank">multiple constraints</a> or :
+With <Link hrefId="category_constraints" content="multiple constraints" /> or :
 
-- <a href="https://www.youtube.com/watch?v=IBDp3wnrOAo" target="_blank">Minimum Press</a>
-- <a href="https://www.youtube.com/watch?v=OF2UwcIZ-DI" target="_blank">Maximum Score</a>
+- <Link hrefId="category_minimumPress" content="Minimum Press" />
+- <Link hrefId="category_maximumScore" content="Maximum Score" />
 
 ---
 layout: two-cols
@@ -162,8 +160,8 @@ IGT (In-Game Time) is the time spent but computed by the game.
 It can contain loading times and the time spent in cutscenes.
 
 The choice between RTA and IGT may be done :
-- Switch <a href="https://www.reddit.com/r/speedrun/comments/7a8223/igt_vs_rta_when_should_a_leaderboard_use_which/dp88pli/" target="_blank">some game characteristics</a>
-- Through a <a href="https://www.speedrun.com/Speedrunning/thread/b5rk1" target="_blank">debate</a>
+- Switch <Link hrefId="timer_igtVsRta" content="some game characteristics" />
+- Through a <Link hrefId="timer_debate" content="debate" />
 
 ::right::
 
@@ -191,7 +189,7 @@ layout: two-cols
 
 - Manage many consoles (PS1, Saturn, GB, ...)
 - Have a lot of tools allowing game TASing
-- Is Console Verified (<a href="https://www.youtube.com/playlist?list=PLH-rsHQS9LqgSYzSePo9aWUX8xRjXSqK9" target="_blank">examples</a>)
+- Is Console Verified (<Link hrefId="bizhawk_consoleVerified" content="examples" />)
 
 ### &nbsp;
 
@@ -200,7 +198,7 @@ layout: two-cols
 - Frame Advanced (play frame by frame)
 - Save State (save anywhere)
 - RAM Search and RAM Watch (search and watch values in the memory)
-- Lua Scripting (launch a lua script to, for instance, <a href="https://www.youtube.com/watch?v=reDowrCmnwY" target="_blank">display data on the screen</a>)
+- Lua Scripting (launch a lua script to, for instance, <Link hrefId="bizhawk_luaOsd" content="display data on the screen" />)
 
 ::right::
 
@@ -208,17 +206,17 @@ layout: two-cols
 
 A way to measure the accuracy of an emulator is to replay the TAS' inputs back on a real console.
 
-A TAS of a GBA game made with BizHawk can be replayed on a real GBA which reveal a high accuracy of emulation (<a href="https://www.youtube.com/watch?v=060Nb7ppa-s" target="_blank">additionally</a>).
+A TAS of a GBA game made with BizHawk can be replayed on a real GBA which reveal a high accuracy of emulation (<Link hrefId="bizhawk_emulationAccuracy" content="additionally" />).
 
-<a href="http://tasvideos.org/TASBot.html" target="_blank">TASBot</a> is a robot created to do this verification (his history : 🇺🇸 part <a href="https://www.youtube.com/watch?v=-Jo6tDW7k3Q" target="_blank">1</a>, <a href="https://www.youtube.com/watch?v=gTF2Pih8BX8" target="_blank">2</a> and <a href="https://www.youtube.com/watch?v=BDQXzrYUuvA" target="_blank">3</a>).
+<Link hrefId="bizhawk_tasbot" content="TASBot" /> is a robot created to do this verification (his history : 🇺🇸 part <Link hrefId="bizhawk_tasbotHistory1" content="1" />, <Link hrefId="bizhawk_tasbotHistory2" content="2" /> and <Link hrefId="bizhawk_tasbotHistory3" content="3" />).
 
 ### Additionally (BizHawk and other tools)
 
-- 🇺🇸 <a href="http://tasvideos.org/BizHawk.html" target="_blank">Detailed page about BizHawk</a>
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLlJzD6wWmoXmihK13itZJ-mzjK3SD1EaM" target="_blank">First TAS with BizHawk</a>
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLFpQiGLusn-aq-z-noMJ7rj9sG3jT3cvW" target="_blank">Some resources about BizHawk</a>
-- 🇺🇸 <a href="https://www.reddit.com/r/emulation/" target="_blank">SubReddit about emulation</a>
-- 🇺🇸 <a href="http://tasvideos.org/EmulatorResources.html" target="_blank">List of emulators / tools to TAS</a>
+- 🇺🇸 <Link hrefId="bizhawk_bizHawk" content="Detailed page about BizHawk" />
+- 🇺🇸 <Link hrefId="bizhawk_tasBizHawk" content="First TAS with BizHawk" />
+- 🇺🇸 <Link hrefId="bizhawk_resourcesBizHawk" content="Some resources about BizHawk" />
+- 🇺🇸 <Link hrefId="bizhawk_subRedditEmulation" content="SubReddit about emulation" />
+- 🇺🇸 <Link hrefId="bizhawk_toolsTas" content="List of emulators / tools to TAS" />
 
 ---
 layout: cover
@@ -234,11 +232,11 @@ layout: cover
 
 Related vocabulary about speedrun is present in these links :
 
-- 🇫🇷 <a href="https://djonepiece300.wordpress.com/2018/01/25/presentation-et-lexique-du-speedrun-et-tool-assisted-speedrun-tas/" target="_blank">Présentation et lexique du Speedrun et TAS</a>
+- 🇫🇷 <Link hrefId="vocabulary_srTasGlossary" content="Présentation et lexique du Speedrun et TAS" />
 
-- 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLoJVELv88dFXuhcFST45YVlDHa37dbmMe" target="_blank">Le dictionnaire du Speedrun</a>
+- 🇫🇷 <Link hrefId="vocabulary_dictionarySpeedrun" content="Le dictionnaire du Speedrun" />
 
-- 🇺🇸 <a href="http://www.speedrunslive.com/faq/glossary/" target="_blank">Speedrunning Glossary</a>
+- 🇺🇸 <Link hrefId="vocabulary_speedrunningGlossary" content="Speedrunning Glossary" />
 
 ---
 layout: two-cols
@@ -248,17 +246,17 @@ layout: two-cols
 
 ### Introduction
 
-The main tool used by speedrunners to time their runs is <a href="https://github.com/LiveSplit" target="_blank">LiveSplit</a>.
+The main tool used by speedrunners to time their runs is <Link hrefId="livesplit_github" content="LiveSplit" />.
 
-- 🇫🇷 <a href="https://www.youtube.com/watch?v=QWuBijoRn9U" target="_blank">Configurer un Timer de Speedrun</a>
+- 🇫🇷 <Link hrefId="livesplit_configureTimer" content="Configurer un Timer de Speedrun" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=xq2MCodtH34" target="_blank">How to Set Up a Speedrun Timer</a>
+- 🇺🇸 <Link hrefId="livesplit_setUpTimer" content="How to Set Up a Speedrun Timer" />
 
 ### Load Remover
 
 To not penalize less powerful computers when runs on computers are made, Load Removers can be coded to remove loading times from the final time of the run.
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=mJYc_5dt8Dw" target="_blank">Making load removers for speedruns</a>
+- 🇺🇸 <Link hrefId="livesplit_loadRemover" content="Make Your Own Load Remover" />
 
 ::right::
 
@@ -268,12 +266,12 @@ To not penalize less powerful computers when runs on computers are made, Load Re
 
 All splits configured on LiveSplit are launched manually during a run. However, it is possible to launch them automatically.
 
-- from a computer game by "listening" memory addresses thanks to an <a href="https://github.com/LiveSplit/LiveSplit.AutoSplitters/blob/master/README.md" target="_blank">ASL file</a>
-  - 🇺🇸 <a href="https://www.youtube.com/watch?v=VS5-ZSjcBXQ" target="_blank">Rich Diamond</a>
-  - 🇺🇸 <a href="https://www.youtube.com/watch?v=KcBZLtjazHQ" target="_blank">Devil May Cry 4 Special Edition</a>
+- from a computer game by "listening" memory addresses thanks to an <Link hrefId="livesplit_asl" content="ASL file" />
+  - 🇺🇸 <Link hrefId="livesplit_richDiamond" content="Rich Diamond" />
+  - 🇺🇸 <Link hrefId="livesplit_dmc4se" content="Devil May Cry 4 Special Edition" />
 - from a console game by comparing images
-  - <a href="https://github.com/Toufool/Auto-Split" target="_blank">Auto-Split</a> (🇫🇷 <a href="https://www.youtube.com/watch?v=uGZphPkrGRw&t=848s" target="_blank">Demonstration</a>)
-  - <a href="https://github.com/RaiMan/SikuliX1" target="_blank">Sikuli</a> (<a href="https://www.youtube.com/watch?v=W4sn4yjSosA" target="_blank">Demonstration</a>)
+  - <Link hrefId="livesplit_autoSplit" content="Auto-Split" /> (🇫🇷 <Link hrefId="livesplit_autoSplitDemonstration" content="Demonstration" />)
+  - <Link hrefId="livesplit_sikuli" content="Sikuli" /> (<Link hrefId="livesplit_sikuliDemonstration" content="Demonstration" />)
 
 ---
 layout: two-cols
@@ -283,22 +281,21 @@ layout: two-cols
 
 ### Multiple themes (speedrun)
 
-- 🇺🇸 <a href="https://www.youtube.com/c/ApolloLegend" target="_blank">Apollo Legend</a>
-- 🇺🇸 <a href="https://www.youtube.com/c/EZScape" target="_blank">EZScape</a>
-- 🇺🇸 <a href="https://www.youtube.com/c/gladJonas" target="_blank">GladJonas</a>
-- 🇺🇸 <a href="https://www.youtube.com/c/karljobst" target="_blank">Karl Jobst</a>
-- 🇺🇸 <a href="https://www.youtube.com/c/LowestPercent" target="_blank">Lowest Percent</a>
-- 🇺🇸 SubReddits : <a href="https://www.reddit.com/r/speedrun/" target="_blank">Speedrunning</a> and <a href="https://www.reddit.com/r/Speedruns/" target="_blank">Speedruns</a>
+- 🇺🇸 <Link hrefId="links_apolloLegend" content="Apollo Legend" />
+- 🇺🇸 <Link hrefId="links_gladJonas" content="GladJonas" />
+- 🇺🇸 <Link hrefId="links_karlJobst" content="Karl Jobst" />
+- 🇺🇸 <Link hrefId="links_lowestPercent" content="Lowest Percent" />
+- 🇺🇸 SubReddits : <Link hrefId="links_subRedditSpeedrunning" content="Speedrunning" /> & <Link hrefId="links_subRedditSpeedrun" content="Speedrun" />(<Link hrefId="links_subRedditSpeedruns" content="s" />)
 
 ### &nbsp;
 
 ### Shows about TAS
 
-- 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLD400FA8A50319D8C" target="_blank">88 miles à l'heure</a>
-- 🇫🇷 <a href="https://www.youtube.com/channel/UCUrnYqoOBrcX4WOfuNDQEgw/videos" target="_blank">In Vino VeriTAS</a>
-- 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLymmwIRuunnacxT6lxIsHXjDrlkiMParM" target="_blank">Speed Game</a>
-- 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLHZhigRWkVZOeS83tX-Z-IEf45ZYu0q6q" target="_blank">TASpedia</a>
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLlJzD6wWmoXn22611vVPKvmmZ3pLWOca5" target="_blank">Tool-Assisted Podcast Episodes</a>
+- 🇫🇷 <Link hrefId="links_88malh" content="88 miles à l'heure" />
+- 🇫🇷 <Link hrefId="links_inVinoVeritas" content="In Vino VeriTAS" />
+- 🇫🇷 <Link hrefId="links_speedGame" content="Speed Game" />
+- 🇫🇷 <Link hrefId="links_taspedia" content="TASpedia" />
+- 🇺🇸 <Link hrefId="links_toolAssistedPodcastEpisodes" content="Tool-Assisted Podcast Episodes" />
 
 ::right::
 
@@ -306,21 +303,20 @@ layout: two-cols
 
 ### Commented Speedruns
 
-- 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLdkPlOZ2GL2xnkF_8AwkLPa7h0YsjgyuZ" target="_blank">Ceci est un speedrun</a>
-- 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLiZQtLpCVz-givM_GpeZuIxzbAcUl1EP9" target="_blank">Gaming Speed Dating</a>
-- 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLqAlRNty5123ErcYqWEa2oi26Oil-SO2Y" target="_blank">Hugo Délire & Laink</a>
-- 🇫🇷 <a href="https://www.youtube.com/channel/UCHXhezW0r3Hvq4QQ6yXcYQw" target="_blank">Mach One</a>
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLoiGRjr9BAVjXkIZNdJspBHkabRkMytxs" target="_blank">Speedrun explained</a>
-- 🇫🇷 Speedrun File <a href="https://www.youtube.com/playlist?list=PLoJVELv88dFVk-gVVNDJdTLtkl33oPHrA" target="_blank">1.0</a>, <a href="https://www.youtube.com/playlist?list=PLoJVELv88dFXc_snfYM65qrj2gb-1WpcP" target="_blank">2.0</a>, <a href="https://www.youtube.com/playlist?list=PLoJVELv88dFW15S6pIL-k6Op0LLY0--ev" target="_blank">3.0</a>
+- 🇫🇷 <Link hrefId="links_ceciEstUnSpeedrun" content="Ceci est un speedrun" />
+- 🇫🇷 <Link hrefId="links_gamingSpeedDating" content="Gaming Speed Dating" />
+- 🇫🇷 <Link hrefId="links_hugoDelireLaink" content="Hugo Délire & Laink" />
+- 🇫🇷 <Link hrefId="links_machOne" content="Mach One" />
+- 🇺🇸 <Link hrefId="links_speedrunExplained" content="Speedrun explained" />
 
 ### &nbsp;
 
 ### Additionally
 
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLraFbwCoisJA6eO7VSWtUqLaIFBQq4PCv" target="_blank">Devs React to Speedruns</a>
-- 🇺🇸 <a href="https://www.reddit.com/r/TAS/" target="_blank">SubReddit (TAS)</a>
-- 🇺🇸 <a href="https://www.twitch.tv/directory/all/tags/0b83a789-5f6a-45f0-b6a3-a56926b6f8b5" target="_blank">Twitch "TAS" tag</a>
-- 🇺🇸 Developers who speedrun their own game (<a href="https://www.twitch.tv/videos/1110820951" target="_blank">Polyphony Lunar Run</a> - <a href="https://www.youtube.com/watch?v=LLNx5_8FK4I" target="_blank">Pro Gymnast</a>)
+- 🇺🇸 <Link hrefId="links_devsReactToSpeedruns" content="Devs React to Speedruns" />
+- 🇺🇸 <Link hrefId="links_subRedditTas" content="SubReddit (TAS)" />
+- 🇺🇸 <Link hrefId="links_twitchTasTag" content="Twitch 'TAS' tag" />
+- 🇺🇸 Developers who speedrun their own game (<Link hrefId="links_polyphonyLunarRun" content="Polyphony Lunar Run" /> - <Link hrefId="links_proGymnast" content="Pro Gymnast" />)
 
 ---
 layout: two-cols
@@ -330,14 +326,14 @@ layout: two-cols
 
 ### Speedrun
 
-- 🇺🇸 <a href="https://www.youtube.com/c/gamesdonequick" target="_blank">AGDQ / SGDQ</a> (🇫🇷 <a href="https://www.youtube.com/channel/UC2nA_c97ROSnfhakjJTKaZw" target="_blank">Le French Restream</a>)
-- 🇺🇸 <a href="https://www.youtube.com/c/ausspeedruns" target="_blank">ASM</a>
-- 🇫🇷 <a href="https://www.youtube.com/watch?v=LEVQ74r2dvw" target="_blank">Barrière Speed Run Show</a>
-- 🇺🇸 <a href="https://www.youtube.com/c/ESAMarathon" target="_blank">ESA</a>
-- 🇺🇸 <a href="https://www.youtube.com/channel/UCaqWIVvgmt8Gme_QLN1IuEQ" target="_blank">GSA</a>
-- 🇺🇸 <a href="https://www.youtube.com/channel/UCJn8IWyQmWEIfpVjX7o2VnQ" target="_blank">RPG Limit Break</a>
-- 🇺🇸 <a href="https://www.youtube.com/channel/UCrQLf-vqI47qzSWOeODR_6g" target="_blank">WASD</a>
-- 🇺🇸 <a href="https://www.youtube.com/c/ZSRVideos" target="_blank">ZeldaSpeedRuns</a>
+- 🇺🇸 <Link hrefId="events_agdqSgdq" content="AGDQ / SGDQ" /> (🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />)
+- 🇺🇸 <Link hrefId="events_asm" content="ASM" />
+- 🇫🇷 <Link hrefId="events_barriereSpeedRunShow" content="Barrière Speed Run Show" />
+- 🇺🇸 <Link hrefId="events_esa" content="ESA" />
+- 🇺🇸 <Link hrefId="events_gsa" content="GSA" />
+- 🇺🇸 <Link hrefId="events_rpgLimitBreak" content="RPG Limit Break" />
+- 🇺🇸 <Link hrefId="events_wasd" content="WASD" />
+- 🇺🇸 <Link hrefId="events_zeldaSpeedRuns" content="ZeldaSpeedRuns" />
 
 ::right::
 
@@ -345,9 +341,9 @@ layout: two-cols
 
 ### TAS
 
-- <a href="https://www.youtube.com/playlist?list=PLzcP-azgsWrqlW8xmp6YRaHD1nzjOmj8i" target="_blank">TASGiving</a>
-- <a href="http://tasvideos.org/Awards.html" target="_blank">TAS Awards</a>
-- <a href="http://tasvideos.org/Noxxa/AprilFoolsHistory.html" target="_blank">TAS submitted on April 1st</a>
+- <Link hrefId="events_tasGiving" content="TASGiving" />
+- <Link hrefId="events_tasAwards" content="TAS Awards" />
+- <Link hrefId="events_tasApril" content="TAS submitted on April 1st" />
 
 ---
 layout: two-cols
@@ -359,9 +355,9 @@ layout: two-cols
 
 Entertainment over speed.
 
-- TAS vs TAS (<a href="https://www.youtube.com/watch?v=0CsOeksvJ44" target="_blank">Ryu vs Cloud</a>, <a href="https://www.youtube.com/watch?v=lhE8g3fscYM" target="_blank">Ness vs Young Link</a>)
-- Glitchfest (<a href="https://www.youtube.com/watch?v=Yxb0t34mW-U" target="_blank">Mortal Kombat 3</a>)
-- <a href="https://www.youtube.com/watch?v=A06DjnoHRIk" target="_blank">TAP</a> (Tool-Assisted Playaround)
+- TAS vs TAS (<Link hrefId="ta_ryuVsCloud" content="Ryu vs Cloud" />, <Link hrefId="ta_nessVsYoungLink" content="Ness vs Young Link" />)
+- Glitchfest (<Link hrefId="ta_mortalKombat3" content="Mortal Kombat 3" />)
+- <Link hrefId="ta_taplayaround" content="TAP" /> (Tool-Assisted Playaround)
 
 ### &nbsp;
 
@@ -369,10 +365,10 @@ Entertainment over speed.
 
 Gameplay, dialogues and cutscenes of a game.
 
-- <a href="https://www.youtube.com/watch?v=RxRaLTpG2VI" target="_blank">TAFP</a> (Tool-Assisted Flawless Playthrough)
-- <a href="https://www.youtube.com/watch?v=KXcR_PDWAUo" target="_blank">TAP</a> (Tool-Assisted Playthrough)
-- <a href="https://www.youtube.com/watch?v=gEOIFXNlIdQ" target="_blank">TAW</a> (Tool-Assisted Walkthrough)
-- <a href="https://www.youtube.com/watch?v=mTK4n0k6HRE" target="_blank">TAG</a> (Tool-Assisted Gameplay)
+- <Link hrefId="ta_tafp" content="TAFP" /> (Tool-Assisted Flawless Playthrough)
+- <Link hrefId="ta_tap" content="TAP" /> (Tool-Assisted Playthrough)
+- <Link hrefId="ta_taw" content="TAW" /> (Tool-Assisted Walkthrough)
+- <Link hrefId="ta_tag" content="TAG" /> (Tool-Assisted Gameplay)
 
 ::right::
 
@@ -380,19 +376,19 @@ Gameplay, dialogues and cutscenes of a game.
 
 ### Tool-Assisted Speedrun, multiple ...
 
-- ... players (<a href="https://www.youtube.com/watch?v=IH4TNH0d-6k" target="_blank">2</a>, <a href="https://www.youtube.com/watch?v=Z8sp-Qnlmzo" target="_blank">3</a>, <a href="https://www.youtube.com/watch?v=uj_GnHZlDvE" target="_blank">4</a>)
+- ... players (<Link hrefId="ta_tasMultiPlayers2" content="2" />, <Link hrefId="ta_tasMultiPlayers3" content="3" />, <Link hrefId="ta_tasMultiPlayers4" content="4" />)
 
-- ... games (🇺🇸 <a href="https://www.youtube.com/watch?v=-ivGNZs_Mvw" target="_blank">Pokémon B&R : Coop Diploma</a>)
+- ... games (🇺🇸 <Link hrefId="ta_pokemonCoopDiploma" content="Pokémon B&R : Coop Diploma" />)
 
-- ... games, same inputs (<a href="https://www.youtube.com/watch?v=pPJKMm5VrhE" target="_blank">2</a>, <a href="https://www.youtube.com/watch?v=To3d6XKsMcQ" target="_blank">3</a>, <a href="https://www.youtube.com/watch?v=SiHdBS7HPg0" target="_blank">4</a>, <a href="https://www.youtube.com/watch?v=CL9yGz7VVrM" target="_blank">11</a>)
+- ... games, same inputs (<Link hrefId="ta_tasSameInputs2" content="2" />, <Link hrefId="ta_tasSameInputs3" content="3" />, <Link hrefId="ta_tasSameInputs4" content="4" />, <Link hrefId="ta_tasSameInputs11" content="11" />)
 
 ### &nbsp;
 
 ### LOTAD / Human Theory TAS
 
-A <a href="https://www.youtube.com/watch?v=ki53UHJMlD4" target="_blank">LOTAD</a> (Low Optimized Tool-Assisted Demonstration) is an unoptimized version of a Tool-Assisted Speedrun.
+A <Link hrefId="ta_lotad" content="LOTAD" /> (Low Optimized Tool-Assisted Demonstration) is an unoptimized version of a Tool-Assisted Speedrun.
 
-A <a href="https://www.youtube.com/watch?v=HRqrvkU0sYQ" target="_blank">Human Theory TAS</a> is a doable version by a human (without using TAS-Only strategies) with a very good execution and luck. 
+A <Link hrefId="ta_humanTheoryTas" content="Human Theory TAS" /> is a doable version by a human (without using TAS-Only strategies) with a very good execution and luck. 
 
 ---
 
@@ -400,24 +396,24 @@ A <a href="https://www.youtube.com/watch?v=HRqrvkU0sYQ" target="_blank">Human Th
 
 ### Differences
 
-- The category <a href="https://www.youtube.com/watch?v=mUpT7fHi1lA" target="_blank">Blindfolded</a> can only exist in speedrun
-- Because time is not computed the same way, <a href="https://www.youtube.com/watch?v=QKsRNoLyXO8&t=3170s" target="_blank">a speedrun can appear faster than a TAS</a>
-- Some risky strategies are only viable in TAS like having <a href="https://www.youtube.com/watch?v=WhD1VvlbPLs" target="_blank">few life points</a>
+- The category <Link hrefId="srTA_blindfolded" content="Blindfolded" /> can only exist in speedrun
+- Because time is not computed the same way, <Link hrefId="srTA_srFasterTas" content="a speedrun can appear faster than a TAS" />
+- Some risky strategies are only viable in TAS like having <Link hrefId="srTA_fewLifePoints" content="few life points" />
 
 ### &nbsp;
 
 ### Competitions
 
-- Run times are split (<a href="https://www.speedrun.com/" target="_blank">speedrun.com</a> on the one hand and <a href="http://tasvideos.org/" target="_blank">tasvideos.org</a> on the other hand)
-- Competitions are split (example : Super Mario 64 Competition, <a href="https://www.youtube.com/playlist?list=PL6P6dcko2BB7fg9h0CIN62zFeVecgV8lR" target="_blank">Speedrun</a> | <a href="https://www.youtube.com/playlist?list=PLkW-5L5VSY-YVhkBrb2be2Hi-i_nrtW-L" target="_blank">TAS</a>)
+- Run times are split (<Link hrefId="srTA_speedrunWebsite" content="speedrun.com" /> on the one hand and <Link hrefId="srTA_tasWebsite" content="tasvideos.org" /> on the other hand)
+- Competitions are split (example : Super Mario 64 Competition, <Link hrefId="srTA_speedrunSM64" content="Speedrun" /> | <Link hrefId="srTA_tasSM64" content="TAS" />)
 
 ### &nbsp;
 
 ### People who are speedrunner and TASer of a same game
 
-- <a href="https://www.youtube.com/c/Bluekandy/about" target="_blank">Bluekandy</a> : Mario Golf
-- <a href="https://www.youtube.com/user/CrazyGameNerd/about" target="_blank">CrazyGameNerd</a> : F-Zero GX
-- <a href="https://www.youtube.com/c/gymnast86/about" target="_blank">Gymnast86</a> : Twilight Princess
+- <Link hrefId="srTA_bluekandy" content="Bluekandy" /> : Mario Golf
+- <Link hrefId="srTA_crazyGameNerd" content="CrazyGameNerd" /> : F-Zero GX
+- <Link hrefId="srTA_gymnast86" content="Gymnast86" /> : Twilight Princess
 
 ---
 layout: cover
@@ -429,7 +425,7 @@ layout: cover
 
 Here is a non-exhaustive list of skills used during speedruns / TAS which reduce more or less the time to end a game.
 
-Some of these skills can lead to the creation of a new speedrun category if, for example, it "brakes" too much a game (like the <a href="https://www.youtube.com/watch?v=a_R2H2dRWqU" target="_blank">SRM</a> in Ocarina of Time).
+Some of these skills can lead to the creation of a new speedrun category if, for example, it "brakes" too much a game (like the <Link hrefId="skills_srm" content="SRM" /> in Ocarina of Time).
 
 ---
 layout: two-cols
@@ -445,11 +441,11 @@ Malfunctions can occur like clips (go through a wall), skips, ...
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=4pVgsyt6uXU" target="_blank">Alundra, Bomb Glitch</a>
+- 🇺🇸 <Link hrefId="glitch_alundraBombGlitch" content="Alundra, Bomb Glitch" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=Jhfc4fyw5Wk" target="_blank">Twilight Princess, Back in Time Glitch</a>
+- 🇺🇸 <Link hrefId="glitch_twilightPrincessBackInTimeGlitch" content="Twilight Princess, Back in Time Glitch" />
 
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLDBXdd2IJRvW-gaqcF2Kx0zOUkFZVdML2" target="_blank">Son of a Glitch</a>
+- 🇺🇸 <Link hrefId="glitch_sonOfGlitch" content="Son of a Glitch" />
 
 ::right::
 
@@ -463,11 +459,11 @@ Testing how the game reacts when two events occur at the same time is one way to
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=PTsnblKvfqE" target="_blank">Who finds the Glitches used in Speedruns?</a>
+- 🇺🇸 <Link hrefId="glitchHunting_whoFindsGlitches" content="Who finds the Glitches used in Speedruns?" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=yOMKljWdCIE" target="_blank">How are speedrun glitches found?</a>
+- 🇺🇸 <Link hrefId="glitchHunting_howGlitchesFound" content="How are speedrun glitches found?" />
 
-- 🇺🇸 <a href="https://medium.com/@dannyb21892/speedrunning-glitch-hunting-and-the-intersections-of-gaming-and-coding-ce8be66e9029" target="_blank">Speedrunning, Glitch Hunting and the Intersections of Gaming and Coding</a>
+- 🇺🇸 <Link hrefId="glitchHunting_glitchHuntingGamingCoding" content="Speedrunning, Glitch Hunting and the Intersections of Gaming and Coding" />
 
 ---
 
@@ -475,13 +471,13 @@ Testing how the game reacts when two events occur at the same time is one way to
 
 ### Description
 
-To be sure to get the best time in a game, playing with the <a href="https://www.youtube.com/watch?v=1Mtukr5v6J8" target="_blank">most advantaged localized version</a> of the game is a must.
+To be sure to get the best time in a game, playing with the <Link hrefId="language_advantages" content="most advantaged localized version" /> of the game is a must.
 
 Here are some examples of language used switch the speedrunned game :
 
-- <a href="https://www.youtube.com/watch?v=XM1UwcX1AlM" target="_blank">Twilight Princess Any%</a>, in German
-- <a href="https://www.youtube.com/watch?v=DkQiUfz2exc" target="_blank">Breath of the Wild Any%</a>, in French
-- <a href="https://www.youtube.com/watch?v=TL5UhcpQthQ" target="_blank">Super Mario 64, 16 stars</a>, in Japanese
+- <Link hrefId="language_twilightPrincessAny" content="Twilight Princess Any%" />, in German
+- <Link hrefId="language_breathOfTheWildAny" content="Breath of the Wild Any%" />, in French
+- <Link hrefId="language_superMario6416Stars" content="Super Mario 64, 16 stars" />, in Japanese
 
 ---
 
@@ -495,9 +491,9 @@ The goal is to do the less count of back-and-forth into the menu by doing multip
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=jdZg4a4NU5k" target="_blank">Resident Evil 1 : Jill Any% Glitchless Inventory Management</a>
+- 🇺🇸 <Link hrefId="menuing_residentEvil1JillAnyGlitchlessInventoryManagement" content="Resident Evil 1 : Jill Any% Glitchless Inventory Management" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=46YM-7g2800" target="_blank">AGDQ 2019: Final Fantasy XI - Blindfolded Menuing</a>
+- 🇺🇸 <Link hrefId="menuing_agdq2019FinalFantasyXIBlindfoldedMenuing" content="AGDQ 2019: Final Fantasy XI - Blindfolded Menuing" />
 
 ---
 
@@ -513,8 +509,8 @@ The videos "World Record Progression" are good examples to see changes in the ro
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLuwYJaJDViFlt1hRETxEP3dexwJG1ENNe" target="_blank">Speed Docs</a>
-- 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLMxPYcr2zEkWInMyvvxmN22gjrRR0x__u" target="_blank">Summoning Salt</a>
+- 🇺🇸 <Link hrefId="routing_speedDocs" content="Speed Docs" />
+- 🇺🇸 <Link hrefId="routing_summoningSalt" content="Summoning Salt" />
 
 ---
 
@@ -528,9 +524,9 @@ To avoid that, some tricks can be tested like killing enemies sooner or move the
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=mMtKl_P_vz0" target="_blank">Super Metroid -- Lag Reduction comparison</a>
+- 🇺🇸 <Link hrefId="lagReduction_superMetroidLagReductionComparison" content="Super Metroid - Lag Reduction comparison" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=sOetJuClTGs" target="_blank">The Best Kept Secret in SM64 Speedruns</a>
+- 🇺🇸 <Link hrefId="lagReduction_theBestKeptSecretInSM64" content="The Best Kept Secret in SM64 Speedruns" />
 
 ---
 
@@ -542,11 +538,11 @@ A Sequence Break (or Skip) is a shortcut but not intended by the game developers
 
 🎥 Some videos of EZScape about the biggest skips in speedruns :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=9N5J5_Q2miA" target="_blank">Top 10 Biggest Skips In Speedrunning #1</a>
+- 🇺🇸 <Link hrefId="skip_top10BiggestSkipsInSpeedrunning1" content="Top 10 Biggest Skips In Speedrunning #1" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=bk90sXw696s" target="_blank">Top 10 Biggest Skips In Speedrunning #2</a>
+- 🇺🇸 <Link hrefId="skip_top10BiggestSkipsInSpeedrunning2" content="Top 10 Biggest Skips In Speedrunning #2" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=HF4i9vebXPk" target="_blank">Top 10 Biggest Skips In Speedrunning #3</a>
+- 🇺🇸 <Link hrefId="skip_top10BiggestSkipsInSpeedrunning3" content="Top 10 Biggest Skips In Speedrunning #3" />
 
 ---
 
@@ -562,9 +558,9 @@ Damage Boost is a part of "Take damage to save time" family which gathers skills
 
 🎥 TAS examples containing some D-Boost :
 
-- <a href="https://www.youtube.com/watch?v=7-Kak8JeF1g" target="_blank">The Goonies II, Any%</a>
+- <Link hrefId="dBoost_theGoonies2Any" content="The Goonies II, Any%" />
 
-- <a href="https://www.youtube.com/watch?v=Sy0HrZLRq3k" target="_blank">Super Metroid, 100%</a>
+- <Link hrefId="dBoost_superMetroid100" content="Super Metroid, 100%" />
 
 ---
 
@@ -578,9 +574,9 @@ Indeed, death can take back to a previous checkpoint without doing strictly spea
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=5BgLSAMJreM" target="_blank">Death Abuse - SpeedTech Ep. 1 - Speedrunning Tricks</a>
+- 🇺🇸 <Link hrefId="death_deathAbuseSpeedTech" content="Death Abuse - SpeedTech Ep. 1 - Speedrunning Tricks" />
 
-- <a href="https://www.youtube.com/watch?v=IRtLpYB2fnI" target="_blank">Speedrun of O.D.T.: Escape... Or Die Trying containing some Death Warps</a>
+- <Link hrefId="death_speedrunODT" content="Speedrun of O.D.T.: Escape... Or Die Trying containing some Death Warps" />
 
 ---
 
@@ -592,9 +588,9 @@ In some games, repeated pause can cause effects that can't append in another way
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=-q5XYEJwdaE" target="_blank">Mega Man 1, Pause Buffering</a>
+- 🇺🇸 <Link hrefId="pause_megaMan1" content="Mega Man 1, Pause Buffering" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=IhlBrVaK7DU" target="_blank">Super Mario 64, Pause Buffering</a>
+- 🇺🇸 <Link hrefId="pause_superMario64" content="Super Mario 64, Pause Buffering" />
 
 ---
 
@@ -606,19 +602,17 @@ Some glitches allow getting outside the boundaries of the game, it's an OOB (out
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=7trX1fDmAXI" target="_blank">Luigi's Mansion, Chest Glitch</a>
+- 🇺🇸 <Link hrefId="oob_luigiMansionChestGlitch" content="Luigi's Mansion, Chest Glitch" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=byXJ1lhNLB8" target="_blank">Resident Evil 4, Ditman Glitch</a>
-
-### OOB as a category
+- 🇺🇸 <Link hrefId="oob_residentEvil4DitmanGlitch" content="Resident Evil 4, Ditman Glitch" />
 
 OOB will become an other category when too many fragments of the game are skipped.
 
 🎥 References :
 
-- <a href="https://www.youtube.com/watch?v=briY7IIL3Bs" target="_blank">Ghostrunner, Any% OOB</a>
+- <Link hrefId="oob_ghostrunnerAnyOob" content="Ghostrunner, Any% OOB" />
 
-- <a href="https://www.youtube.com/watch?v=R0FWWsaHdQ4" target="_blank">Portal, Any% OOB</a>
+- <Link hrefId="oob_portalAnyOob" content="Portal, Any% OOB" />
 
 ---
 
@@ -630,13 +624,13 @@ Some events in a game can be subject to the luck (like doing a critical hit duri
 
 The name given to the luck in a game is the RNG (Random Number Generator) and can be represented as a probability that an event occurs.
 
-When TASing, this RNG will be <a href="http://tasvideos.org/LuckManipulation.html" target="_blank">manipulated</a> to get (if possible) some desired events.
+When TASing, this RNG will be <Link hrefId="luck_manipulated" content="manipulated" /> to get (if possible) some desired events.
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=UxL2DpGASt8" target="_blank">Dampe in Ocarina of Time Explained</a>
+- 🇺🇸 <Link hrefId="luck_dampeInOcarinaOfTime" content="Dampe in Ocarina of Time Explained" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=SnQNrYOvWR4" target="_blank">Top 10 Luck Dependent Speedruns</a>
+- 🇺🇸 <Link hrefId="luck_top10LuckDependentSpeedruns" content="Top 10 Luck Dependent Speedruns" />
 
 ---
 
@@ -646,15 +640,15 @@ When TASing, this RNG will be <a href="http://tasvideos.org/LuckManipulation.htm
 
 An ACE (Arbitrary Code Execution) is a glitch that allows to execute unintended code in a game.
 
-This allows to go <a href="https://www.youtube.com/watch?v=StuzA-IRN_Y" target="_blank">quickly to the end of a game</a> (named Game End Glitch) or to code a game into a game.
+This allows to go <Link hrefId="ace_geg" content="quickly to the end of a game" /> (named Game End Glitch) or to code a game into a game.
 
 Example (Pong and Snake coded in Super Mario World) :
-- <a href="https://www.youtube.com/watch?v=v_KsonqcMv0" target="_blank">Demonstration</a>
-- 🇺🇸 <a href="https://arstechnica.com/gaming/2014/01/how-an-emulator-fueled-robot-reprogrammed-super-mario-world-on-the-fly/" target="_blank">Related article</a>
-- 🇫🇷 <a href="https://www.youtube.com/watch?v=dcbdhDqBx_g&t=1252s" target="_blank">Related video</a>
+- <Link hrefId="ace_demonstration" content="Demonstration" />
+- 🇺🇸 <Link hrefId="ace_relatedArticle" content="Related article" />
+- 🇫🇷 <Link hrefId="ace_relatedVideo" content="Related video" />
 
 🎥 References :
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=o7wGpmP6YH8" target="_blank">TAS Zelda Majora's Mask 100% with ACE</a>
+- 🇺🇸 <Link hrefId="ace_tasMM100ACE" content="TAS Zelda Majora's Mask 100% with ACE" />
 
-- 🇺🇸 <a href="https://www.youtube.com/watch?v=FmTtRZcfH08" target="_blank">TAS Castlevania: Symphony of the Night "Game End Glitch" </a>
+- 🇺🇸 <Link hrefId="ace_tasCastlevaniaGEG" content="TAS Castlevania: Symphony of the Night 'Game End Glitch'" />
