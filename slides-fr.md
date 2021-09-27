@@ -290,7 +290,7 @@ layout: two-cols
 - 🇺🇸 <a href="https://www.youtube.com/c/gladJonas" target="_blank">GladJonas</a>
 - 🇺🇸 <a href="https://www.youtube.com/c/karljobst" target="_blank">Karl Jobst</a>
 - 🇺🇸 <a href="https://www.youtube.com/c/LowestPercent" target="_blank">Lowest Percent</a>
-- 🇺🇸 SubReddits : <a href="https://www.reddit.com/r/speedrun/" target="_blank">Speedrunning</a> et <a href="https://www.reddit.com/r/Speedruns/" target="_blank">Speedruns</a>
+- 🇺🇸 SubReddits : <a href="https://www.reddit.com/r/Speedrunning/" target="_blank">Speedrunning</a> & <a href="https://www.reddit.com/r/speedrun/" target="_blank">Speedrun</a>(<a href="https://www.reddit.com/r/Speedruns/" target="_blank">s</a>)
 
 ### &nbsp;
 
