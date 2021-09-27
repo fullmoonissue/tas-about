@@ -284,7 +284,6 @@ layout: two-cols
 ### Multiple themes (speedrun)
 
 - 🇺🇸 <a href="https://www.youtube.com/c/ApolloLegend" target="_blank">Apollo Legend</a>
-- 🇺🇸 <a href="https://www.youtube.com/c/EZScape" target="_blank">EZScape</a>
 - 🇺🇸 <a href="https://www.youtube.com/c/gladJonas" target="_blank">GladJonas</a>
 - 🇺🇸 <a href="https://www.youtube.com/c/karljobst" target="_blank">Karl Jobst</a>
 - 🇺🇸 <a href="https://www.youtube.com/c/LowestPercent" target="_blank">Lowest Percent</a>
@@ -311,7 +310,6 @@ layout: two-cols
 - 🇫🇷 <a href="https://www.youtube.com/playlist?list=PLqAlRNty5123ErcYqWEa2oi26Oil-SO2Y" target="_blank">Hugo Délire & Laink</a>
 - 🇫🇷 <a href="https://www.youtube.com/channel/UCHXhezW0r3Hvq4QQ6yXcYQw" target="_blank">Mach One</a>
 - 🇺🇸 <a href="https://www.youtube.com/playlist?list=PLoiGRjr9BAVjXkIZNdJspBHkabRkMytxs" target="_blank">Speedrun explained</a>
-- 🇫🇷 Speedrun File <a href="https://www.youtube.com/playlist?list=PLoJVELv88dFVk-gVVNDJdTLtkl33oPHrA" target="_blank">1.0</a>, <a href="https://www.youtube.com/playlist?list=PLoJVELv88dFXc_snfYM65qrj2gb-1WpcP" target="_blank">2.0</a>, <a href="https://www.youtube.com/playlist?list=PLoJVELv88dFW15S6pIL-k6Op0LLY0--ev" target="_blank">3.0</a>
 
 ### &nbsp;
 
