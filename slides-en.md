@@ -73,10 +73,12 @@ layout: two-cols
 The aim of speedrunning is to get the best time to end a game.
 
 A speedrun is played "live" on a console or a computer when a TAS is made on a computer with
-- an emulator for console games (example: <Link hrefId="definition_bizhawkGithub" content="BizHawk" />)
-- a software for computer games (example: <Link hrefId="definition_libtasGithub" content="LibTAS" />)
+- an <Link hrefId="definition_bizhawkGithub" content="emulator" /> for console games
+- a <Link hrefId="definition_libtasGithub" content="software" /> for computer games
 
 A TAS is represented by <Link hrefId="definition_bizhawkInputLog" content="a file" /> which list inputs (buttons) pushed on a particular frame (picture).
+
+The game <Link hrefId="definition_botsAreStupid" content="Bots Are Stupid" /> brings a form of view about what a TAS could look like.
 
 ::right::
 
@@ -208,7 +210,7 @@ A way to measure the accuracy of an emulator is to replay the TAS' inputs back o
 
 A TAS of a GBA game made with BizHawk can be replayed on a real GBA which reveal a high accuracy of emulation (<Link hrefId="bizhawk_emulationAccuracy" content="additionally" />).
 
-<Link hrefId="bizhawk_tasbot" content="TASBot" /> is a robot created to do this verification (his history: 🇺🇸 part <Link hrefId="bizhawk_tasbotHistory1" content="1" />, <Link hrefId="bizhawk_tasbotHistory2" content="2" />, and <Link hrefId="bizhawk_tasbotHistory3" content="3" />).
+TASBot is a robot created to do this verification (<Link hrefId="bizhawk_tasbot" content="his history" />: 🇺🇸 part <Link hrefId="bizhawk_tasbotHistory1" content="1" />, <Link hrefId="bizhawk_tasbotHistory2" content="2" />, and <Link hrefId="bizhawk_tasbotHistory3" content="3" />).
 
 ### Additionally (BizHawk and other tools)
 
@@ -326,13 +328,14 @@ layout: two-cols
 
 ### Speedrun
 
-- 🇺🇸 <Link hrefId="events_agdqSgdq" content="AGDQ / SGDQ" /> (🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />)
-- 🇺🇸 <Link hrefId="events_asm" content="ASM" />
+- 🇺🇸 <Link hrefId="events_asm" content="Australian Speedruns" />
 - 🇫🇷 <Link hrefId="events_barriereSpeedRunShow" content="Barrière Speed Run Show" />
-- 🇺🇸 <Link hrefId="events_esa" content="ESA" />
-- 🇺🇸 <Link hrefId="events_gsa" content="GSA" />
+- 🇺🇸 <Link hrefId="events_esa" content="European Speedrunner Assembly" />
+- 🇺🇸 <Link hrefId="events_agdqSgdq" content="Games Done Quick" />
+  - 🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />
+- 🇺🇸 <Link hrefId="events_gsa" content="Global Speedrun Association" />
 - 🇺🇸 <Link hrefId="events_rpgLimitBreak" content="RPG Limit Break" />
-- 🇺🇸 <Link hrefId="events_wasd" content="WASD" />
+- 🇺🇸 <Link hrefId="events_wasd" content="Warwick's Awesome Speedruns & Demos" />
 - 🇺🇸 <Link hrefId="events_zeldaSpeedRuns" content="ZeldaSpeedRuns" />
 
 ::right::
@@ -366,7 +369,6 @@ Entertainment over speed.
 Gameplay, dialogues, and cutscenes of a game.
 
 - <Link hrefId="ta_tafp" content="TAFP" /> (Tool-Assisted Flawless Playthrough)
-- <Link hrefId="ta_tap" content="TAP" /> (Tool-Assisted Playthrough)
 - <Link hrefId="ta_taw" content="TAW" /> (Tool-Assisted Walkthrough)
 - <Link hrefId="ta_tag" content="TAG" /> (Tool-Assisted Gameplay)
 
@@ -554,7 +556,7 @@ Sometimes, enemies, even our own weapons, allow us to move faster when being hit
 
 Thus, a balance will be searched between a bunch of damage taken to save time and remaining life points to not die.
 
-Damage Boost is a part of "Take damage to save time" family which gathers skills allowing to trade some life points for time saved.
+Damage Boost is a part of the "Take damage to save time" family which gathers skills allowing to trade some life points for time saved.
 
 🎥 TAS examples containing some D-Boost:
 
@@ -576,7 +578,7 @@ Indeed, death can take back to a previous checkpoint without doing strictly spea
 
 - 🇺🇸 <Link hrefId="death_deathAbuseSpeedTech" content="Death Abuse - SpeedTech Ep. 1 - Speedrunning Tricks" />
 
-- <Link hrefId="death_speedrunODT" content="Speedrun of O.D.T.: Escape... Or Die Trying containing some Death Warps" />
+- 🇺🇸 <Link hrefId="death_speedrunODT" content="Speedrun of O.D.T.: Escape... Or Die Trying containing some Death Warps" />
 
 ---
 
