@@ -73,10 +73,12 @@ layout: two-cols
 Rechercher à réaliser le meilleur temps pour finir un jeu est la discipline du speedrunning.
 
 Un speedrun s'effectue "en live" sur une console ou sur un ordinateur alors qu'un TAS s'effectue sur un ordinateur avec :
-- un émulateur pour les jeux sur console (exemple : <Link hrefId="definition_bizhawkGithub" content="BizHawk" />)
-- un logiciel pour les jeux sur ordinateur (exemple : <Link hrefId="definition_libtasGithub" content="LibTAS" />)
+- un <Link hrefId="definition_bizhawkGithub" content="émulateur" /> pour les jeux sur console
+- un <Link hrefId="definition_libtasGithub" content="logiciel" /> pour les jeux sur ordinateur
 
-Un TAS est représenté par <Link hrefId="definition_bizhawkInputLog" content="un fichier" /> qui liste les inputs (touches) appuyés à une frame (image) particulière.
+Un TAS est représenté par <Link hrefId="definition_bizhawkInputLog" content="un fichier" /> listant les inputs (touches) appuyés à telle frame (image).
+
+Le jeu <Link hrefId="definition_botsAreStupid" content="Bots Are Stupid" /> amène une idée de cette représentation d'un TAS.
 
 ::right::
 
@@ -208,7 +210,7 @@ Un moyen de mesurer la précision d'un émulateur est de rejouer les inputs d'un
 
 Pour certaines consoles (comme la GBA), un TAS réalisé sous BizHawk peut être rejoué sur une vraie GBA ce qui appose un haut degré de précision d'émulation (<Link hrefId="bizhawk_emulationAccuracy" content="complément" />).
 
-<Link hrefId="bizhawk_tasbot" content="TASBot" /> est un robot créé pour justement effectuer cette vérification (son histoire : 🇺🇸 partie <Link hrefId="bizhawk_tasbotHistory1" content="1" />, <Link hrefId="bizhawk_tasbotHistory2" content="2" /> et <Link hrefId="bizhawk_tasbotHistory3" content="3" />).
+TASBot est un robot créé pour justement effectuer cette vérification (<Link hrefId="bizhawk_tasbot" content="son histoire" /> : 🇺🇸 partie <Link hrefId="bizhawk_tasbotHistory1" content="1" />, <Link hrefId="bizhawk_tasbotHistory2" content="2" /> et <Link hrefId="bizhawk_tasbotHistory3" content="3" />).
 
 ### En complément (BizHawk et autres outils)
 
@@ -328,13 +330,14 @@ layout: two-cols
 
 ### Speedrun
 
-- 🇺🇸 <Link hrefId="events_agdqSgdq" content="AGDQ / SGDQ" /> (🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />)
-- 🇺🇸 <Link hrefId="events_asm" content="ASM" />
+- 🇺🇸 <Link hrefId="events_asm" content="Australian Speedruns" />
 - 🇫🇷 <Link hrefId="events_barriereSpeedRunShow" content="Barrière Speed Run Show" />
-- 🇺🇸 <Link hrefId="events_esa" content="ESA" />
-- 🇺🇸 <Link hrefId="events_gsa" content="GSA" />
+- 🇺🇸 <Link hrefId="events_esa" content="European Speedrunner Assembly" />
+- 🇺🇸 <Link hrefId="events_agdqSgdq" content="Games Done Quick" />
+  - 🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />
+- 🇺🇸 <Link hrefId="events_gsa" content="Global Speedrun Association" />
 - 🇺🇸 <Link hrefId="events_rpgLimitBreak" content="RPG Limit Break" />
-- 🇺🇸 <Link hrefId="events_wasd" content="WASD" />
+- 🇺🇸 <Link hrefId="events_wasd" content="Warwick's Awesome Speedruns & Demos" />
 - 🇺🇸 <Link hrefId="events_zeldaSpeedRuns" content="ZeldaSpeedRuns" />
 
 ::right::
@@ -368,7 +371,6 @@ Le divertissement d'abord, la rapidité ensuite.
 Gameplay, dialogues et cinématiques d'un jeu.
 
 - <Link hrefId="ta_tafp" content="TAFP" /> (Tool-Assisted Flawless Playthrough)
-- <Link hrefId="ta_tap" content="TAP" /> (Tool-Assisted Playthrough)
 - <Link hrefId="ta_taw" content="TAW" /> (Tool-Assisted Walkthrough)
 - <Link hrefId="ta_tag" content="TAG" /> (Tool-Assisted Gameplay)
 
@@ -578,7 +580,7 @@ En effet, la mort peut ramener à un checkpoint antérieur permettant de gagner 
 
 - 🇺🇸 <Link hrefId="death_deathAbuseSpeedTech" content="Death Abuse - SpeedTech Ep. 1 - Speedrunning Tricks" />
 
-- <Link hrefId="death_speedrunODT" content="Speedrun d'O.D.T.: Escape... Or Die Trying comportant des Death Warp" />
+- 🇺🇸 <Link hrefId="death_speedrunODT" content="Speedrun d'O.D.T. : Escape... Or Die Trying comportant des Death Warp" />
 
 ---
 

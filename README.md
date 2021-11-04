@@ -18,16 +18,16 @@ If you have any question or comment, feel free to open an issue or create a pull
 
 [Slidev](https://github.com/slidevjs/slidev) is used to create the slides.
 
-    # Installation, first time (slides language will be set to english)
+    # Installation for the first time (slides language will be set to english)
     make install
+
+    # To run slidev (on http://localhost:3030)
+    make dev
 
     # To switch the current slides language
     make slides-en
     # Or
     make slides-fr
-
-    # To run slidev (on http://localhost:3030)
-    make dev
 
     # To export as pdf in a defined language
     make export-en

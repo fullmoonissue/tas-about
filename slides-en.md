@@ -73,10 +73,12 @@ layout: two-cols
 The aim of speedrunning is to get the best time to end a game.
 
 A speedrun is played "live" on a console or a computer when a TAS is made on a computer with
-- an emulator for console games (example : <Link hrefId="definition_bizhawkGithub" content="BizHawk" />)
-- a software for computer games (example : <Link hrefId="definition_libtasGithub" content="LibTAS" />)
+- an <Link hrefId="definition_bizhawkGithub" content="emulator" /> for console games
+- a <Link hrefId="definition_libtasGithub" content="software" /> for computer games
 
 A TAS is represented by <Link hrefId="definition_bizhawkInputLog" content="a file" /> which list inputs (buttons) pushed on a particular frame (picture).
+
+The game <Link hrefId="definition_botsAreStupid" content="Bots Are Stupid" /> brings a form of view about what a TAS could look like.
 
 ::right::
 
@@ -134,13 +136,13 @@ The community of a game may suggest some extra categories.
 
 - <Link hrefId="category_rbo" content="RBO" /> (Reverse Boss Order, defeat bosses in the inverted order)
 - <Link hrefId="category_damageless" content="Damageless" /> (take no damage)
-- And many others (examples : <Link hrefId="category_ceCeleste" content="Celeste" />, <Link hrefId="category_ceOutlast" content="Outlast" />)
+- And many others (examples: <Link hrefId="category_ceCeleste" content="Celeste" />, <Link hrefId="category_ceOutlast" content="Outlast" />)
 
 ### &nbsp;
 
 ### More categories
 
-With <Link hrefId="category_constraints" content="multiple constraints" /> or :
+With <Link hrefId="category_constraints" content="multiple constraints" /> or:
 
 - <Link hrefId="category_minimumPress" content="Minimum Press" />
 - <Link hrefId="category_maximumScore" content="Maximum Score" />
@@ -159,7 +161,7 @@ Once the agreement found about when to start and stop the timer, the time spent 
 IGT (In-Game Time) is the time spent but computed by the game.
 It can contain loading times and the time spent in cutscenes.
 
-The choice between RTA and IGT may be done :
+The choice between RTA and IGT may be done:
 - Switch <Link hrefId="timer_igtVsRta" content="some game characteristics" />
 - Through a <Link hrefId="timer_debate" content="debate" />
 
@@ -171,7 +173,7 @@ The choice between RTA and IGT may be done :
 
 The computed time for a TAS is simpler than for a speedrun because it's always the same way.
 
-The timer starts when the game is launched and it stops when the last input is pushed.
+The timer starts when the game is launched, and it stops when the last input is pushed.
 
 ---
 layout: cover
@@ -208,7 +210,7 @@ A way to measure the accuracy of an emulator is to replay the TAS' inputs back o
 
 A TAS of a GBA game made with BizHawk can be replayed on a real GBA which reveal a high accuracy of emulation (<Link hrefId="bizhawk_emulationAccuracy" content="additionally" />).
 
-<Link hrefId="bizhawk_tasbot" content="TASBot" /> is a robot created to do this verification (his history : 🇺🇸 part <Link hrefId="bizhawk_tasbotHistory1" content="1" />, <Link hrefId="bizhawk_tasbotHistory2" content="2" /> and <Link hrefId="bizhawk_tasbotHistory3" content="3" />).
+TASBot is a robot created to do this verification (<Link hrefId="bizhawk_tasbot" content="his history" />: 🇺🇸 part <Link hrefId="bizhawk_tasbotHistory1" content="1" />, <Link hrefId="bizhawk_tasbotHistory2" content="2" />, and <Link hrefId="bizhawk_tasbotHistory3" content="3" />).
 
 ### Additionally (BizHawk and other tools)
 
@@ -226,11 +228,11 @@ layout: cover
 
 ---
 
-# Appendix #1 : Vocabulary
+# Appendix #1: Vocabulary
 
 ### Technical words
 
-Related vocabulary about speedrun is present in these links :
+Related vocabulary about speedrun is present in these links:
 
 - 🇫🇷 <Link hrefId="vocabulary_srTasGlossary" content="Présentation et lexique du Speedrun et TAS" />
 
@@ -242,7 +244,7 @@ Related vocabulary about speedrun is present in these links :
 layout: two-cols
 ---
 
-# Appendix #2 : LiveSplit
+# Appendix #2: LiveSplit
 
 ### Introduction
 
@@ -277,7 +279,7 @@ All splits configured on LiveSplit are launched manually during a run. However, 
 layout: two-cols
 ---
 
-# Appendix #3 : Links
+# Appendix #3: Links
 
 ### Multiple themes (speedrun)
 
@@ -285,7 +287,7 @@ layout: two-cols
 - 🇺🇸 <Link hrefId="links_gladJonas" content="GladJonas" />
 - 🇺🇸 <Link hrefId="links_karlJobst" content="Karl Jobst" />
 - 🇺🇸 <Link hrefId="links_lowestPercent" content="Lowest Percent" />
-- 🇺🇸 SubReddits : <Link hrefId="links_subRedditSpeedrunning" content="Speedrunning" /> & <Link hrefId="links_subRedditSpeedrun" content="Speedrun" />(<Link hrefId="links_subRedditSpeedruns" content="s" />)
+- 🇺🇸 SubReddits: <Link hrefId="links_subRedditSpeedrunning" content="Speedrunning" /> & <Link hrefId="links_subRedditSpeedrun" content="Speedrun" />(<Link hrefId="links_subRedditSpeedruns" content="s" />)
 
 ### &nbsp;
 
@@ -322,17 +324,18 @@ layout: two-cols
 layout: two-cols
 ---
 
-# Appendix #4 : Events
+# Appendix #4: Events
 
 ### Speedrun
 
-- 🇺🇸 <Link hrefId="events_agdqSgdq" content="AGDQ / SGDQ" /> (🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />)
-- 🇺🇸 <Link hrefId="events_asm" content="ASM" />
+- 🇺🇸 <Link hrefId="events_asm" content="Australian Speedruns" />
 - 🇫🇷 <Link hrefId="events_barriereSpeedRunShow" content="Barrière Speed Run Show" />
-- 🇺🇸 <Link hrefId="events_esa" content="ESA" />
-- 🇺🇸 <Link hrefId="events_gsa" content="GSA" />
+- 🇺🇸 <Link hrefId="events_esa" content="European Speedrunner Assembly" />
+- 🇺🇸 <Link hrefId="events_agdqSgdq" content="Games Done Quick" />
+  - 🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />
+- 🇺🇸 <Link hrefId="events_gsa" content="Global Speedrun Association" />
 - 🇺🇸 <Link hrefId="events_rpgLimitBreak" content="RPG Limit Break" />
-- 🇺🇸 <Link hrefId="events_wasd" content="WASD" />
+- 🇺🇸 <Link hrefId="events_wasd" content="Warwick's Awesome Speedruns & Demos" />
 - 🇺🇸 <Link hrefId="events_zeldaSpeedRuns" content="ZeldaSpeedRuns" />
 
 ::right::
@@ -349,7 +352,7 @@ layout: two-cols
 layout: two-cols
 ---
 
-# Appendix #5 : Other TA
+# Appendix #5: Other TA
 
 ### Tool-Assisted Superplay
 
@@ -363,10 +366,9 @@ Entertainment over speed.
 
 ### Tool-Assisted Playthrough
 
-Gameplay, dialogues and cutscenes of a game.
+Gameplay, dialogues, and cutscenes of a game.
 
 - <Link hrefId="ta_tafp" content="TAFP" /> (Tool-Assisted Flawless Playthrough)
-- <Link hrefId="ta_tap" content="TAP" /> (Tool-Assisted Playthrough)
 - <Link hrefId="ta_taw" content="TAW" /> (Tool-Assisted Walkthrough)
 - <Link hrefId="ta_tag" content="TAG" /> (Tool-Assisted Gameplay)
 
@@ -378,7 +380,7 @@ Gameplay, dialogues and cutscenes of a game.
 
 - ... players (<Link hrefId="ta_tasMultiPlayers2" content="2" />, <Link hrefId="ta_tasMultiPlayers3" content="3" />, <Link hrefId="ta_tasMultiPlayers4" content="4" />)
 
-- ... games (🇺🇸 <Link hrefId="ta_pokemonCoopDiploma" content="Pokémon B&R : Coop Diploma" />)
+- ... games (🇺🇸 <Link hrefId="ta_pokemonCoopDiploma" content="Pokémon B&R: Coop Diploma" />)
 
 - ... games, same inputs (<Link hrefId="ta_tasSameInputs2" content="2" />, <Link hrefId="ta_tasSameInputs3" content="3" />, <Link hrefId="ta_tasSameInputs4" content="4" />, <Link hrefId="ta_tasSameInputs11" content="11" />)
 
@@ -392,7 +394,7 @@ A <Link hrefId="ta_humanTheoryTas" content="Human Theory TAS" /> is a doable ver
 
 ---
 
-# Appendix #6 : Speedrun and TAS
+# Appendix #6: Speedrun and TAS
 
 ### Differences
 
@@ -405,15 +407,15 @@ A <Link hrefId="ta_humanTheoryTas" content="Human Theory TAS" /> is a doable ver
 ### Competitions
 
 - Run times are split (<Link hrefId="srTA_speedrunWebsite" content="speedrun.com" /> on the one hand and <Link hrefId="srTA_tasWebsite" content="tasvideos.org" /> on the other hand)
-- Competitions are split (example : Super Mario 64 Competition, <Link hrefId="srTA_speedrunSM64" content="Speedrun" /> | <Link hrefId="srTA_tasSM64" content="TAS" />)
+- Competitions are split (example: Super Mario 64 Competition, <Link hrefId="srTA_speedrunSM64" content="Speedrun" /> | <Link hrefId="srTA_tasSM64" content="TAS" />)
 
 ### &nbsp;
 
 ### People who are speedrunner and TASer of a same game
 
-- <Link hrefId="srTA_bluekandy" content="Bluekandy" /> : Mario Golf
-- <Link hrefId="srTA_crazyGameNerd" content="CrazyGameNerd" /> : F-Zero GX
-- <Link hrefId="srTA_gymnast86" content="Gymnast86" /> : Twilight Princess
+- <Link hrefId="srTA_bluekandy" content="Bluekandy" />: Mario Golf
+- <Link hrefId="srTA_crazyGameNerd" content="CrazyGameNerd" />: F-Zero GX
+- <Link hrefId="srTA_gymnast86" content="Gymnast86" />: Twilight Princess
 
 ---
 layout: cover
@@ -439,7 +441,7 @@ In general, a glitch (or bug) is a failure in a game.
 
 Malfunctions can occur like clips (go through a wall), skips, ...
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="glitch_alundraBombGlitch" content="Alundra, Bomb Glitch" />
 
@@ -457,13 +459,13 @@ Glitch Hunting is the process to search for glitches and exploit them.
 
 Testing how the game reacts when two events occur at the same time is one way to find some potential glitches.
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="glitchHunting_whoFindsGlitches" content="Who finds the Glitches used in Speedruns?" />
 
 - 🇺🇸 <Link hrefId="glitchHunting_howGlitchesFound" content="How are speedrun glitches found?" />
 
-- 🇺🇸 <Link hrefId="glitchHunting_glitchHuntingGamingCoding" content="Speedrunning, Glitch Hunting and the Intersections of Gaming and Coding" />
+- 🇺🇸 <Link hrefId="glitchHunting_glitchHuntingGamingCoding" content="Speedrunning, Glitch Hunting, and the Intersections of Gaming and Coding" />
 
 ---
 
@@ -473,7 +475,7 @@ Testing how the game reacts when two events occur at the same time is one way to
 
 To be sure to get the best time in a game, playing with the <Link hrefId="language_advantages" content="most advantaged localized version" /> of the game is a must.
 
-Here are some examples of language used switch the speedrunned game :
+Here are some examples of language used switch the speedrunned game:
 
 - <Link hrefId="language_twilightPrincessAny" content="Twilight Princess Any%" />, in German
 - <Link hrefId="language_breathOfTheWildAny" content="Breath of the Wild Any%" />, in French
@@ -489,9 +491,9 @@ Menuing is the optimisation of the use of the menu during a run.
 
 The goal is to do the less count of back-and-forth into the menu by doing multiple actions (if possible) when opening it and having a good inventory management.
 
-🎥 References :
+🎥 References:
 
-- 🇺🇸 <Link hrefId="menuing_residentEvil1JillAnyGlitchlessInventoryManagement" content="Resident Evil 1 : Jill Any% Glitchless Inventory Management" />
+- 🇺🇸 <Link hrefId="menuing_residentEvil1JillAnyGlitchlessInventoryManagement" content="Resident Evil 1: Jill Any% Glitchless Inventory Management" />
 
 - 🇺🇸 <Link hrefId="menuing_agdq2019FinalFantasyXIBlindfoldedMenuing" content="AGDQ 2019: Final Fantasy XI - Blindfolded Menuing" />
 
@@ -507,7 +509,7 @@ It can evolve when, for instance, new glitches are found.
 
 The videos "World Record Progression" are good examples to see changes in the routing of some games.
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="routing_speedDocs" content="Speed Docs" />
 - 🇺🇸 <Link hrefId="routing_summoningSalt" content="Summoning Salt" />
@@ -522,7 +524,7 @@ When too many elements are displayed on the screen, the speed of a game can decr
 
 To avoid that, some tricks can be tested like killing enemies sooner or move the camera to not display some elements on screen.
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="lagReduction_superMetroidLagReductionComparison" content="Super Metroid - Lag Reduction comparison" />
 
@@ -536,7 +538,7 @@ To avoid that, some tricks can be tested like killing enemies sooner or move the
 
 A Sequence Break (or Skip) is a shortcut but not intended by the game developers.
 
-🎥 Some videos of EZScape about the biggest skips in speedruns :
+🎥 Some videos of EZScape about the biggest skips in speedruns:
 
 - 🇺🇸 <Link hrefId="skip_top10BiggestSkipsInSpeedrunning1" content="Top 10 Biggest Skips In Speedrunning #1" />
 
@@ -554,9 +556,9 @@ Sometimes, enemies, even our own weapons, allow us to move faster when being hit
 
 Thus, a balance will be searched between a bunch of damage taken to save time and remaining life points to not die.
 
-Damage Boost is a part of "Take damage to save time" family which gathers skills allowing to trade some life points for time saved.
+Damage Boost is a part of the "Take damage to save time" family which gathers skills allowing to trade some life points for time saved.
 
-🎥 TAS examples containing some D-Boost :
+🎥 TAS examples containing some D-Boost:
 
 - <Link hrefId="dBoost_theGoonies2Any" content="The Goonies II, Any%" />
 
@@ -572,11 +574,11 @@ In some games, death becomes a shortcut.
 
 Indeed, death can take back to a previous checkpoint without doing strictly speaking this return manually.
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="death_deathAbuseSpeedTech" content="Death Abuse - SpeedTech Ep. 1 - Speedrunning Tricks" />
 
-- <Link hrefId="death_speedrunODT" content="Speedrun of O.D.T.: Escape... Or Die Trying containing some Death Warps" />
+- 🇺🇸 <Link hrefId="death_speedrunODT" content="Speedrun of O.D.T.: Escape... Or Die Trying containing some Death Warps" />
 
 ---
 
@@ -586,7 +588,7 @@ Indeed, death can take back to a previous checkpoint without doing strictly spea
 
 In some games, repeated pause can cause effects that can't append in another way.
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="pause_megaMan1" content="Mega Man 1, Pause Buffering" />
 
@@ -600,7 +602,7 @@ In some games, repeated pause can cause effects that can't append in another way
 
 Some glitches allow getting outside the boundaries of the game, it's an OOB (out of bounds).
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="oob_luigiMansionChestGlitch" content="Luigi's Mansion, Chest Glitch" />
 
@@ -608,7 +610,7 @@ Some glitches allow getting outside the boundaries of the game, it's an OOB (out
 
 OOB will become an other category when too many fragments of the game are skipped.
 
-🎥 References :
+🎥 References:
 
 - <Link hrefId="oob_ghostrunnerAnyOob" content="Ghostrunner, Any% OOB" />
 
@@ -626,7 +628,7 @@ The name given to the luck in a game is the RNG (Random Number Generator) and ca
 
 When TASing, this RNG will be <Link hrefId="luck_manipulated" content="manipulated" /> to get (if possible) some desired events.
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="luck_dampeInOcarinaOfTime" content="Dampe in Ocarina of Time Explained" />
 
@@ -642,12 +644,12 @@ An ACE (Arbitrary Code Execution) is a glitch that allows to execute unintended 
 
 This allows to go <Link hrefId="ace_geg" content="quickly to the end of a game" /> (named Game End Glitch) or to code a game into a game.
 
-Example (Pong and Snake coded in Super Mario World) :
+Example (Pong and Snake coded in Super Mario World):
 - <Link hrefId="ace_demonstration" content="Demonstration" />
 - 🇺🇸 <Link hrefId="ace_relatedArticle" content="Related article" />
 - 🇫🇷 <Link hrefId="ace_relatedVideo" content="Related video" />
 
-🎥 References :
+🎥 References:
 
 - 🇺🇸 <Link hrefId="ace_tasMM100ACE" content="TAS Zelda Majora's Mask 100% with ACE" />
 
