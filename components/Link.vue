@@ -51,6 +51,7 @@ const hrefIdToUrl = {
     'vocabulary_srTasGlossary': "https://djonepiece300.wordpress.com/2018/01/25/presentation-et-lexique-du-speedrun-et-tool-assisted-speedrun-tas/",
     'vocabulary_dictionarySpeedrun': "https://www.youtube.com/playlist?list=PLoJVELv88dFXuhcFST45YVlDHa37dbmMe",
     'vocabulary_speedrunningGlossary': "https://www.speedrunslive.com/rules-faq/glossary",
+    'vocabulary_glossaryTasVideos': "https://tasvideos.org/Glossary",
     'livesplit_github': "https://github.com/LiveSplit",
     'livesplit_configureTimer': "https://www.youtube.com/watch?v=QWuBijoRn9U",
     'livesplit_setUpTimer': "https://www.youtube.com/watch?v=xq2MCodtH34",

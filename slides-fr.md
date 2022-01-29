@@ -242,6 +242,8 @@ D'autres termes en relation sont disponibles dans ces quelques liens :
 
 - 🇺🇸 <Link hrefId="vocabulary_speedrunningGlossary" content="Speedrunning Glossary" />
 
+- 🇺🇸 <Link hrefId="vocabulary_glossaryTasVideos" content="Glossary - TASVideos" />
+
 ---
 layout: two-cols
 ---
