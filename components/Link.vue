@@ -79,6 +79,7 @@ const hrefIdToUrl = {
     'links_machOne': "https://www.youtube.com/channel/UCHXhezW0r3Hvq4QQ6yXcYQw",
     'links_speedrunExplained': "https://www.youtube.com/playlist?list=PLoiGRjr9BAVjXkIZNdJspBHkabRkMytxs",
     'links_devsReactToSpeedruns': "https://www.youtube.com/playlist?list=PLraFbwCoisJA6eO7VSWtUqLaIFBQq4PCv",
+    'links_broadcastTAS': "https://www.twitch.tv/speedrunhypetv",
     'links_interviewsOfSpeedrunners': "https://www.youtube.com/playlist?list=PLszHwNbX4a9i4duOCXTis7naLwYQoeZxJ",
     'links_subRedditTas': "https://www.reddit.com/r/TAS/",
     'links_twitchTasTag': "https://www.twitch.tv/directory/all/tags/0b83a789-5f6a-45f0-b6a3-a56926b6f8b5",

@@ -318,6 +318,7 @@ layout: two-cols
 ### Additionally
 
 - 🇺🇸 <Link hrefId="links_devsReactToSpeedruns" content="Devs React to Speedruns" />
+- 🇺🇸 <Link hrefId="links_broadcastTAS" content="TAS continuous broadcast" />
 - 🇺🇸 <Link hrefId="links_interviewsOfSpeedrunners" content="Interviews of Speedrunners" />
 - 🇺🇸 <Link hrefId="links_subRedditTas" content="SubReddit (TAS)" />
 - 🇺🇸 <Link hrefId="links_twitchTasTag" content="Twitch 'TAS' tag" />
