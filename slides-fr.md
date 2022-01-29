@@ -332,11 +332,13 @@ layout: two-cols
 
 - 🇺🇸 <Link hrefId="events_asm" content="Australian Speedruns" />
 - 🇫🇷 <Link hrefId="events_barriereSpeedRunShow" content="Barrière Speed Run Show" />
+- 🇺🇸 <Link hrefId="events_calithon" content="Calithon" />
 - 🇺🇸 <Link hrefId="events_esa" content="European Speedrunner Assembly" />
-- 🇺🇸 <Link hrefId="events_agdqSgdq" content="Games Done Quick" />
-  - 🇫🇷 <Link hrefId="events_leFrenchRestream" content="Le French Restream" />
+- 🇺🇸 <Link hrefId="events_forTheLoveOfGaming" content="For The Love of Gaming" />
+- 🇺🇸 <Link hrefId="events_agdqSgdq" content="Games Done Quick" /> (🇫🇷 <Link hrefId="events_leFrenchRestream" content="French Restream" />)
 - 🇺🇸 <Link hrefId="events_gsa" content="Global Speedrun Association" />
 - 🇺🇸 <Link hrefId="events_rpgLimitBreak" content="RPG Limit Break" />
+- 🇺🇸 <Link hrefId="events_shotsFired" content="Shots Fired" />
 - 🇺🇸 <Link hrefId="events_wasd" content="Warwick's Awesome Speedruns & Demos" />
 - 🇺🇸 <Link hrefId="events_zeldaSpeedRuns" content="ZeldaSpeedRuns" />
 
