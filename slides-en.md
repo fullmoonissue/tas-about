@@ -382,7 +382,7 @@ Gameplay, dialogues, and cutscenes of a game.
 
 ### Tool-Assisted Speedrun, multiple ...
 
-- ... players (<Link hrefId="ta_tasMultiPlayers2" content="2" />, <Link hrefId="ta_tasMultiPlayers3" content="3" />, <Link hrefId="ta_tasMultiPlayers4" content="4" />)
+- ... players (<Link hrefId="ta_tasMultiPlayers2" content="2" />, <Link hrefId="ta_tasMultiPlayers3" content="3" />, <Link hrefId="ta_tasMultiPlayers4" content="4" />, <Link hrefId="ta_tasMultiPlayers5" content="5" />)
 
 - ... games (🇺🇸 <Link hrefId="ta_pokemonCoopDiploma" content="Pokémon B&R: Coop Diploma" />)
 

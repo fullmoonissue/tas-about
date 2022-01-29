@@ -107,6 +107,7 @@ const hrefIdToUrl = {
     'ta_tasMultiPlayers2': "https://www.youtube.com/watch?v=IH4TNH0d-6k",
     'ta_tasMultiPlayers3': "https://www.youtube.com/watch?v=Z8sp-Qnlmzo",
     'ta_tasMultiPlayers4': "https://www.youtube.com/watch?v=uj_GnHZlDvE",
+    'ta_tasMultiPlayers5': "https://www.youtube.com/watch?v=s43GRvSibSs",
     'ta_pokemonCoopDiploma': "https://www.youtube.com/watch?v=-ivGNZs_Mvw",
     'ta_tasSameInputs2': "https://www.youtube.com/watch?v=pPJKMm5VrhE",
     'ta_tasSameInputs3': "https://www.youtube.com/watch?v=To3d6XKsMcQ",
