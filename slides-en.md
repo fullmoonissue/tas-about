@@ -287,7 +287,7 @@ layout: two-cols
 - 🇺🇸 <Link hrefId="links_gladJonas" content="GladJonas" />
 - 🇺🇸 <Link hrefId="links_karlJobst" content="Karl Jobst" />
 - 🇺🇸 <Link hrefId="links_lowestPercent" content="Lowest Percent" />
-- 🇺🇸 SubReddits: <Link hrefId="links_subRedditSpeedrunning" content="Speedrunning" /> & <Link hrefId="links_subRedditSpeedrun" content="Speedrun" />(<Link hrefId="links_subRedditSpeedruns" content="s" />)
+- 🇺🇸 <Link hrefId="links_subRedditSpeedrun" content="Speedrun SubReddit" />
 
 ### &nbsp;
 
@@ -316,9 +316,9 @@ layout: two-cols
 ### Additionally
 
 - 🇺🇸 <Link hrefId="links_devsReactToSpeedruns" content="Devs React to Speedruns" />
+- 🇺🇸 <Link hrefId="links_interviewsOfSpeedrunners" content="Interviews of Speedrunners" />
 - 🇺🇸 <Link hrefId="links_subRedditTas" content="SubReddit (TAS)" />
 - 🇺🇸 <Link hrefId="links_twitchTasTag" content="Twitch 'TAS' tag" />
-- 🇺🇸 Developers who speedrun their own game (<Link hrefId="links_polyphonyLunarRun" content="Polyphony Lunar Run" /> - <Link hrefId="links_proGymnast" content="Pro Gymnast" />)
 
 ---
 layout: two-cols

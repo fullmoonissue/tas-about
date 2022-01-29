@@ -4,7 +4,7 @@ defineProps<{
   content: string
 }>()
 const hrefIdToUrl = {
-    'cover_fmiGithub': "https://github.com/FullMoonIssue",
+    'cover_fmiGithub': "https://github.com/fullmoonissue",
     'cover_fmiYoutube': "https://www.youtube.com/channel/UCyIgZhTFSpPe_E7WRFzRBCQ",
     'cover_slidevGithub': "https://github.com/slidevjs/slidev",
     'definition_bizhawkGithub': "https://github.com/TASEmulators/BizHawk",
@@ -66,9 +66,7 @@ const hrefIdToUrl = {
     'links_gladJonas': "https://www.youtube.com/c/gladJonas",
     'links_karlJobst': "https://www.youtube.com/c/karljobst",
     'links_lowestPercent': "https://www.youtube.com/c/LowestPercent",
-    'links_subRedditSpeedrunning': "https://www.reddit.com/r/Speedrunning/",
     'links_subRedditSpeedrun': "https://www.reddit.com/r/speedrun/",
-    'links_subRedditSpeedruns': "https://www.reddit.com/r/Speedruns/",
     'links_88malh': "https://www.youtube.com/playlist?list=PLD400FA8A50319D8C",
     'links_inVinoVeritas': "https://www.youtube.com/channel/UCUrnYqoOBrcX4WOfuNDQEgw/videos",
     'links_speedGame': "https://www.youtube.com/playlist?list=PLymmwIRuunnacxT6lxIsHXjDrlkiMParM",
@@ -80,10 +78,9 @@ const hrefIdToUrl = {
     'links_machOne': "https://www.youtube.com/channel/UCHXhezW0r3Hvq4QQ6yXcYQw",
     'links_speedrunExplained': "https://www.youtube.com/playlist?list=PLoiGRjr9BAVjXkIZNdJspBHkabRkMytxs",
     'links_devsReactToSpeedruns': "https://www.youtube.com/playlist?list=PLraFbwCoisJA6eO7VSWtUqLaIFBQq4PCv",
+    'links_interviewsOfSpeedrunners': "https://www.youtube.com/playlist?list=PLszHwNbX4a9i4duOCXTis7naLwYQoeZxJ",
     'links_subRedditTas': "https://www.reddit.com/r/TAS/",
     'links_twitchTasTag': "https://www.twitch.tv/directory/all/tags/0b83a789-5f6a-45f0-b6a3-a56926b6f8b5",
-    'links_polyphonyLunarRun': "https://www.twitch.tv/videos/1110820951",
-    'links_proGymnast': "https://www.youtube.com/watch?v=LLNx5_8FK4I",
     'events_agdqSgdq': "https://www.youtube.com/c/gamesdonequick",
     'events_leFrenchRestream': "https://www.youtube.com/channel/UC2nA_c97ROSnfhakjJTKaZw",
     'events_asm': "https://www.youtube.com/c/ausspeedruns",
