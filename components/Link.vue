@@ -62,7 +62,7 @@ const hrefIdToUrl = {
     'livesplit_autoSplitDemonstration': "https://www.youtube.com/watch?v=uGZphPkrGRw&t=848s",
     'livesplit_sikuli': "https://github.com/RaiMan/SikuliX1",
     'livesplit_sikuliDemonstration': "https://www.youtube.com/watch?v=W4sn4yjSosA",
-    'links_apolloLegend': "https://www.youtube.com/c/ApolloLegend",
+    'links_abyssoft': "https://www.youtube.com/c/Abyssoft",
     'links_gladJonas': "https://www.youtube.com/c/gladJonas",
     'links_karlJobst': "https://www.youtube.com/c/karljobst",
     'links_lowestPercent': "https://www.youtube.com/c/LowestPercent",
