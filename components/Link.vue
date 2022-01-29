@@ -128,6 +128,7 @@ const hrefIdToUrl = {
     'glitch_alundraBombGlitch': "https://www.youtube.com/watch?v=4pVgsyt6uXU",
     'glitch_twilightPrincessBackInTimeGlitch': "https://www.youtube.com/watch?v=Jhfc4fyw5Wk",
     'glitch_sonOfGlitch': "https://www.youtube.com/playlist?list=PLDBXdd2IJRvW-gaqcF2Kx0zOUkFZVdML2",
+    'glitch_iceberg': "https://www.youtube.com/watch?v=uPFMB4emQEs",
     'glitchHunting_whoFindsGlitches': "https://www.youtube.com/watch?v=PTsnblKvfqE",
     'glitchHunting_howGlitchesFound': "https://www.youtube.com/watch?v=yOMKljWdCIE",
     'glitchHunting_glitchHuntingGamingCoding': "https://medium.com/@dannyb21892/speedrunning-glitch-hunting-and-the-intersections-of-gaming-and-coding-ce8be66e9029",

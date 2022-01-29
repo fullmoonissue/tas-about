@@ -453,6 +453,8 @@ Malfunctions can occur like clips (go through a wall), skips, ...
 
 - 🇺🇸 <Link hrefId="glitch_sonOfGlitch" content="Son of a Glitch" />
 
+- 🇺🇸 <Link hrefId="glitch_iceberg" content="The Speedrun Skips Iceberg Explained" />
+
 ::right::
 
 # Glitch Hunting

@@ -455,6 +455,8 @@ Cela peut provoquer des dysfonctionnements, des clips (traverser un mur), des sk
 
 - 🇺🇸 <Link hrefId="glitch_sonOfGlitch" content="Son of a Glitch" />
 
+- 🇺🇸 <Link hrefId="glitch_iceberg" content="The Speedrun Skips Iceberg Explained" />
+
 ::right::
 
 # Glitch Hunting
