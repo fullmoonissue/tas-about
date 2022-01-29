@@ -131,6 +131,7 @@ const hrefIdToUrl = {
     'glitchHunting_howGlitchesFound': "https://www.youtube.com/watch?v=yOMKljWdCIE",
     'glitchHunting_glitchHuntingGamingCoding': "https://medium.com/@dannyb21892/speedrunning-glitch-hunting-and-the-intersections-of-gaming-and-coding-ce8be66e9029",
     'language_advantages': "https://www.youtube.com/watch?v=1Mtukr5v6J8",
+    'language_use': "https://www.youtube.com/watch?v=jo9PeLgDZRk",
     'language_twilightPrincessAny': "https://www.youtube.com/watch?v=XM1UwcX1AlM",
     'language_breathOfTheWildAny': "https://www.youtube.com/watch?v=bnhSHqWk2bM",
     'language_superMario6416Stars': "https://www.youtube.com/watch?v=TL5UhcpQthQ",

@@ -473,13 +473,19 @@ Testing how the game reacts when two events occur at the same time is one way to
 
 ### Description
 
-To be sure to get the best time in a game, playing with the <Link hrefId="language_advantages" content="most advantaged localized version" /> of the game is a must.
+To be sure to get the best time in a game, playing with the most advantaged localized version of the game is a must.
 
 Here are some examples of language used switch the speedrunned game:
 
 - <Link hrefId="language_twilightPrincessAny" content="Twilight Princess Any%" />, in German
 - <Link hrefId="language_breathOfTheWildAny" content="Breath of the Wild Any%" />, in French
 - <Link hrefId="language_superMario6416Stars" content="Super Mario 64, 16 stars" />, in Japanese
+
+🎥 References:
+
+- 🇺🇸 <Link hrefId="language_advantages" content="Why Speedrunners Play on Japanese Releases – Version Differences" />
+
+- 🇺🇸 <Link hrefId="language_use" content="What Languages Do Speedrunners Use?" />
 
 ---
 
