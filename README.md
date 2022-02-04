@@ -10,9 +10,9 @@ If you have any question or comment, feel free to open an issue or create a pull
 
 ## PDF
 
-- 🇺🇸 [English](https://fullmoonissue.github.io/tas-about-en.pdf?last_version=2021-11-04)
+- 🇺🇸 [English](https://fullmoonissue.github.io/tas-about-en.pdf?last_version=2022-02-04)
 
-- 🇫🇷 [Français](https://fullmoonissue.github.io/tas-about-fr.pdf?last_version=2021-11-04)
+- 🇫🇷 [Français](https://fullmoonissue.github.io/tas-about-fr.pdf?last_version=2022-02-04)
 
 ## Development
 
