@@ -118,6 +118,7 @@ const hrefIdToUrl = {
     'ta_lotad': "https://www.youtube.com/watch?v=ki53UHJMlD4",
     'ta_humanTheoryTas': "https://www.youtube.com/watch?v=HRqrvkU0sYQ",
     'srTA_blindfolded': "https://www.youtube.com/watch?v=Qgrcr65BFj4",
+    'srTA_oneHanded': "https://www.youtube.com/watch?v=dy4cyS10TbE",
     'srTA_srFasterTas': "https://www.youtube.com/watch?v=QKsRNoLyXO8&t=3170s",
     'srTA_fewLifePoints': "https://www.youtube.com/watch?v=WhD1VvlbPLs",
     'srTA_speedrunWebsite': "https://www.speedrun.com/",

@@ -405,9 +405,9 @@ A <Link hrefId="ta_humanTheoryTas" content="Human Theory TAS" /> is a doable ver
 
 ### Differences
 
-- The category <Link hrefId="srTA_blindfolded" content="Blindfolded" /> can only exist in speedrun
+- The categories <Link hrefId="srTA_blindfolded" content="Blindfolded" /> and <Link hrefId="srTA_oneHanded" content="One Handed" /> exist only in speedrun
 - Because time is not computed the same way, <Link hrefId="srTA_srFasterTas" content="a speedrun can appear faster than a TAS" />
-- Some risky strategies are only viable in TAS like having <Link hrefId="srTA_fewLifePoints" content="few life points" />
+- Some risky strategies are only viable in TAS like having only <Link hrefId="srTA_fewLifePoints" content="few life points" />
 
 ### &nbsp;
 
