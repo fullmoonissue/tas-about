@@ -12,6 +12,7 @@ const hrefIdToUrl = {
     'definition_bizhawkInputLog': "http://tasvideos.org/Bizhawk/BK2Format.html#InputLog",
     'definition_botsAreStupid': "https://www.youtube.com/watch?v=hUtiiITuEig",
     'definition_introductionSpeedrun': "https://www.youtube.com/watch?v=akQuKUa-Iho",
+    'definition_historySpeedrunning': "https://www.youtube.com/watch?v=woTVADMFp2E",
     'definition_whatIsSpeedrunning': "https://www.youtube.com/watch?v=fTElGPOsdd8",
     'definition_howToStartSpeedrunning': "https://www.youtube.com/watch?v=Zxhd4tGuhf4",
     'definition_conferenceTas': "https://www.youtube.com/watch?v=XrNrJ9G8-Do",

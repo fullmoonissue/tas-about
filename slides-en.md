@@ -88,6 +88,8 @@ The game <Link hrefId="definition_botsAreStupid" content="Bots Are Stupid" /> br
 
 - 🇫🇷 <Link hrefId="definition_introductionSpeedrun" content="Introduction au Speedrun" />
 
+- 🇫🇷 <Link hrefId="definition_historySpeedrunning" content="L'histoire passionnante du Speedrunning" />
+
 - 🇺🇸 <Link hrefId="definition_whatIsSpeedrunning" content="What is Speedrunning?" />
 
 - 🇺🇸 <Link hrefId="definition_howToStartSpeedrunning" content="How To Start Speedrunning" />
