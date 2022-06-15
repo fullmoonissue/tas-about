@@ -4,15 +4,11 @@
 
 This is a slideshow document I've made about Speedrun and Tool-Assisted Speedrun.
 
-I have deliberately skipped some parts like bounties, memes and cheats just to keep the essential ones (IMO).
-
-If you have any question or comment, feel free to open an issue or create a pull request to suggest some content.
-
 ## PDF
 
-- 🇺🇸 [English](https://fullmoonissue.github.io/tas-about-en.pdf?last_version=2022-02-04)
+- 🇺🇸 [English](https://fullmoonissue.github.io/tas-about-en.pdf?last_version=2022-06-15)
 
-- 🇫🇷 [Français](https://fullmoonissue.github.io/tas-about-fr.pdf?last_version=2022-02-04)
+- 🇫🇷 [Français](https://fullmoonissue.github.io/tas-about-fr.pdf?last_version=2022-06-15)
 
 ## Development
 
