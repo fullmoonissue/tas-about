@@ -355,9 +355,10 @@ layout: two-cols
 
 ### TAS
 
-- <Link hrefId="events_tasGiving" content="TASGiving" />
 - <Link hrefId="events_tasAwards" content="TAS Awards" />
+- <Link hrefId="events_tasBlock" content="TAS Block" />
 - <Link hrefId="events_tasApril" content="TAS soumis le 1er avril" />
+- <Link hrefId="events_tasGiving" content="TASGiving" />
 
 ---
 layout: two-cols

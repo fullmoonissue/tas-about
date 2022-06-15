@@ -99,6 +99,7 @@ const hrefIdToUrl = {
     'events_zeldaSpeedRuns': "https://www.youtube.com/c/ZSRVideos",
     'events_tasGiving': "https://www.youtube.com/playlist?list=PLzcP-azgsWrqlW8xmp6YRaHD1nzjOmj8i",
     'events_tasAwards': "http://tasvideos.org/Awards.html",
+    'events_tasBlock': "https://www.youtube.com/playlist?list=PL56Je9SuPxBwknojTTT_KsOB3Msa54DRS",
     'events_tasApril': "http://tasvideos.org/Noxxa/AprilFoolsHistory.html",
     'ta_ryuVsCloud': "https://www.youtube.com/watch?v=0CsOeksvJ44",
     'ta_nessVsYoungLink': "https://www.youtube.com/watch?v=lhE8g3fscYM",
