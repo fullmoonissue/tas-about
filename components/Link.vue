@@ -50,6 +50,7 @@ const hrefIdToUrl = {
     'bizhawk_toolsTas': "http://tasvideos.org/EmulatorResources.html",
     'vocabulary_srTasGlossary': "https://djonepiece300.wordpress.com/2018/01/25/presentation-et-lexique-du-speedrun-et-tool-assisted-speedrun-tas/",
     'vocabulary_dictionarySpeedrun': "https://www.youtube.com/playlist?list=PLoJVELv88dFXuhcFST45YVlDHa37dbmMe",
+    'vocabulary_frenchWikiSpeedrun': "https://wiki.lefren.ch/books/le-french-wiki/page/termes-r%C3%A9currents-du-speedrun",
     'vocabulary_speedrunningGlossary': "https://www.speedrunslive.com/rules-faq/glossary",
     'vocabulary_glossaryTasVideos': "https://tasvideos.org/Glossary",
     'livesplit_github': "https://github.com/LiveSplit",

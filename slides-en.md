@@ -238,6 +238,8 @@ Related vocabulary about speedrun is present in these links:
 
 - 🇫🇷 <Link hrefId="vocabulary_dictionarySpeedrun" content="Le dictionnaire du Speedrun" />
 
+- 🇫🇷 <Link hrefId="vocabulary_frenchWikiSpeedrun" content="Termes récurrents du Speedrun" />
+
 - 🇺🇸 <Link hrefId="vocabulary_speedrunningGlossary" content="Speedrunning Glossary" />
 
 - 🇺🇸 <Link hrefId="vocabulary_glossaryTasVideos" content="Glossary - TASVideos" />
