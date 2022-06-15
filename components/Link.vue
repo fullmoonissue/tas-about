@@ -66,7 +66,7 @@ const hrefIdToUrl = {
     'livesplit_sikuliDemonstration': "https://www.youtube.com/watch?v=W4sn4yjSosA",
     'links_abyssoft': "https://www.youtube.com/c/Abyssoft",
     'links_gladJonas': "https://www.youtube.com/c/gladJonas",
-    'links_karlJobst': "https://www.youtube.com/c/karljobst",
+    'links_storster': "https://www.youtube.com/c/Storster",
     'links_lowestPercent': "https://www.youtube.com/c/LowestPercent",
     'links_subRedditSpeedrun': "https://www.reddit.com/r/speedrun/",
     'links_88malh': "https://www.youtube.com/playlist?list=PLD400FA8A50319D8C",

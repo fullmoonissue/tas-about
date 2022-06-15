@@ -291,9 +291,9 @@ layout: two-cols
 
 - 🇺🇸 <Link hrefId="links_abyssoft" content="Abyssoft" />
 - 🇺🇸 <Link hrefId="links_gladJonas" content="GladJonas" />
-- 🇺🇸 <Link hrefId="links_karlJobst" content="Karl Jobst" />
 - 🇺🇸 <Link hrefId="links_lowestPercent" content="Lowest Percent" />
 - 🇺🇸 <Link hrefId="links_subRedditSpeedrun" content="Speedrun SubReddit" />
+- 🇺🇸 <Link hrefId="links_storster" content="Storster" />
 
 ### &nbsp;
 
