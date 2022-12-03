@@ -1,0 +1,21 @@
+{
+    "type": "project",
+    "require": {
+        "php": "8.1.*",
+        "tecnickcom/tcpdf": "^6.5"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": {
+            "*": "dist"
+        },
+        "sort-packages": true
+    }
+}
