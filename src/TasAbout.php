@@ -368,6 +368,14 @@ abstract class TasAbout extends TCPDF
         $this->Text($x, $y, $text, link: $linkIdentifier);
     }
 
+    protected function setupLink(int $numPage)
+    {
+        $link = $this->AddLink();
+        $this->SetLink($link, 0, sprintf('*%d', $numPage));
+
+        return $link;
+    }
+
     protected function addLinksPage()
     {
         if (empty($this->orderedLinks)) {
