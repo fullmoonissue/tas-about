@@ -77,7 +77,7 @@ class TasAboutFR extends TasAbout
         $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
         $link = $this->AddLink();
         $this->SetLink($link, 0, '*24');
-        $this->subList('- Speedrun vs TAS', $y, self::X_LEFT + self::X_SPACE_FOR_SUB_LIST, $link);
+        $this->subList('- Informations diverses', $y, self::X_LEFT + self::X_SPACE_FOR_SUB_LIST, $link);
 
         // Right
 
@@ -699,10 +699,10 @@ class TasAboutFR extends TasAbout
     {
         $this->AddPage();
 
-        $this->title('Annexe #6 : Speedrun vs TAS', self::Y_TITLE, self::X_LEFT);
+        $this->title('Annexe #6 : Informations diverses', self::Y_TITLE, self::X_LEFT);
 
         $y = self::Y_TITLE + self::Y_SPACE_BETWEEN_TITLE_AND_SUB_TITLE;
-        $this->subTitle('Différences', $y, self::X_LEFT);
+        $this->subTitle('Différences entre Speedrun et TAS', $y, self::X_LEFT);
 
         $y += self::Y_SPACE_AFTER_SUB_TITLE;
         $this->list('- Les catégories <Link hrefId="srTA_blindfolded" content="Blindfolded" /> et <Link hrefId="srTA_oneHanded" content="One Handed" /> n\'existent qu\'en speedrun', $y, self::X_LEFT);
@@ -720,7 +720,7 @@ class TasAboutFR extends TasAbout
         $this->list('- Les compétitions sont séparées (exemple : Compétition Super Mario 64, <Link hrefId="srTA_speedrunSM64" content="Speedrun" /> | <Link hrefId="srTA_tasSM64" content="TAS" />)', $y, self::X_LEFT);
 
         $y += self::Y_SPACE_BEFORE_SUB_TITLE;
-        $this->subTitle('Compléments (Personnes qui speedrun et TAS un même jeu)', $y, self::X_LEFT);
+        $this->subTitle('Personnes qui speedrun et TAS un même jeu', $y, self::X_LEFT);
 
         $y += self::Y_SPACE_AFTER_SUB_TITLE;
         $this->list('- <Link hrefId="srTA_bluekandy" content="Bluekandy" /> : Mario Golf', $y, self::X_LEFT);
@@ -728,6 +728,16 @@ class TasAboutFR extends TasAbout
         $this->list('- <Link hrefId="srTA_crazyGameNerd" content="CrazyGameNerd" /> : F-Zero GX', $y, self::X_LEFT);
         $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
         $this->list('- <Link hrefId="srTA_gymnast86" content="Gymnast86" /> : Twilight Princess', $y, self::X_LEFT);
+
+        $y += self::Y_SPACE_BEFORE_SUB_TITLE;
+        $this->subTitle('Développeur de jeu qui speedrun son propre jeu', $y, self::X_LEFT);
+
+        $y += self::Y_SPACE_AFTER_SUB_TITLE;
+        $this->list('- <Link hrefId="srTA_TomatoPhalanges" content="TomatoPhalanges" /> : Polyphony', $y, self::X_LEFT);
+        $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
+        $this->list('- <Link hrefId="srTA_ParaLily" content="ParaLily" /> : ParaLily', $y, self::X_LEFT);
+        $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
+        $this->list('- <Link hrefId="srTA_Walaber" content="Walaber" /> : Pro Gymnast', $y, self::X_LEFT);
 
         $this->addLinksPage();
     }

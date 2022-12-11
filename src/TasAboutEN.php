@@ -77,7 +77,7 @@ class TasAboutEN extends TasAbout
         $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
         $link = $this->AddLink();
         $this->SetLink($link, 0, '*24');
-        $this->subList('- Speedrun vs TAS', $y, self::X_LEFT + self::X_SPACE_FOR_SUB_LIST, $link);
+        $this->subList('- Miscellaneous', $y, self::X_LEFT + self::X_SPACE_FOR_SUB_LIST, $link);
 
         // Right
 
@@ -675,10 +675,10 @@ class TasAboutEN extends TasAbout
     {
         $this->AddPage();
 
-        $this->title('Appendix #6 : Speedrun vs TAS', self::Y_TITLE, self::X_LEFT);
+        $this->title('Appendix #6 : Miscellaneous', self::Y_TITLE, self::X_LEFT);
 
         $y = self::Y_TITLE + self::Y_SPACE_BETWEEN_TITLE_AND_SUB_TITLE;
-        $this->subTitle('Differences', $y, self::X_LEFT);
+        $this->subTitle('Differences between Speedrun and TAS', $y, self::X_LEFT);
 
         $y += self::Y_SPACE_AFTER_SUB_TITLE;
         $this->list('- The categories <Link hrefId="srTA_blindfolded" content="Blindfolded" /> and <Link hrefId="srTA_oneHanded" content="One Handed" /> exist only in speedrun', $y, self::X_LEFT);
@@ -704,6 +704,16 @@ class TasAboutEN extends TasAbout
         $this->list('- <Link hrefId="srTA_crazyGameNerd" content="CrazyGameNerd" /> : F-Zero GX', $y, self::X_LEFT);
         $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
         $this->list('- <Link hrefId="srTA_gymnast86" content="Gymnast86" /> : Twilight Princess', $y, self::X_LEFT);
+
+        $y += self::Y_SPACE_BEFORE_SUB_TITLE;
+        $this->subTitle('Game developer who is speedrunning their own game', $y, self::X_LEFT);
+
+        $y += self::Y_SPACE_AFTER_SUB_TITLE;
+        $this->list('- <Link hrefId="srTA_TomatoPhalanges" content="TomatoPhalanges" /> : Polyphony', $y, self::X_LEFT);
+        $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
+        $this->list('- <Link hrefId="srTA_ParaLily" content="ParaLily" /> : ParaLily', $y, self::X_LEFT);
+        $y += self::Y_SPACE_BETWEEN_LIST_ELEMENTS;
+        $this->list('- <Link hrefId="srTA_Walaber" content="Walaber" /> : Pro Gymnast', $y, self::X_LEFT);
 
         $this->addLinksPage();
     }
